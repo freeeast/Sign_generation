@@ -1,0 +1,23 @@
+{
+  "sources":["33jxeIIbBnM_21-1-rgb_front","3sZjSNcqXpI_2-1-rgb_front","ETOZLBScxWY_12-5-rgb_front"],
+  "focus":"3sZjSNcqXpI_2-1-rgb_front",
+  "upstream":"experiments/Stage8",
+  "observations":"experiments/Stage7",
+  "budget":36,
+  "hierarchy":[["arm",5],["handshape",14],["temporal",6],["expert",10]],
+  "knot_spacing":12,
+  "max_knots":16,
+  "lr":0.115,
+  "expert_lr":0.038,
+  "joint_weight":0.5,
+  "factor_weights":[0.35,0.40,0.25],
+  "expert_scale":0.03,
+  "wrist_drift_px":1.5,
+  "arm_drift_px":2.0,
+  "shape_drift_px":1.5,
+  "missing_support_tolerance":0.05,
+  "max_adjacent_deg":{"arm":15,"finger":16},
+  "max_local_deg":{"arm":158,"wrist":120,"finger":130},
+  "rgb_max_frames":14,
+  "seed":0
+}

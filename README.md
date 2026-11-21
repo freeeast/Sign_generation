@@ -8,9 +8,9 @@
 
 1. 阅读 [AGENTS.md](AGENTS.md)、[HANDOFF_CONTEXT.md](HANDOFF_CONTEXT.md) 和 [START_HERE_CN.md](START_HERE_CN.md)。
 2. 按 [Codex 环境说明](CODEX_CLOUD_SETUP.md) 安装最小推理依赖。
-3. 运行 `python scripts/check_handoff.py --smoke`，然后使用 [接手提示词](CODEX_START_PROMPT.md)。
+3. 先运行 `python scripts/check_handoff.py`，恢复权重后再加 `--smoke`，然后使用 [接手提示词](CODEX_START_PROMPT.md)。
 
-仓库包含源代码、配置、历史报告、逐样本数值记录和三个小型 GRU 权重。原始视频、3D 拟合轨迹、衍生图像和完整演示留在授权迁移包中。[数据恢复说明](CODEX_CLOUD_SETUP.md)提供按 SHA-256 校验的恢复命令，`configs/migration_assets.json` 记录每个外部文件的准确路径及校验和。完整闭环还需要按原来源取得 SMPL-X 模型、Uni-Sign 权重及对应检测器。
+仓库包含源代码、配置、历史报告和逐样本数值记录。三个小型 GRU 权重、原始视频、3D 拟合轨迹、衍生图像和完整演示留在原迁移包中。[数据恢复说明](CODEX_CLOUD_SETUP.md)提供按 SHA-256 校验的恢复命令，恢复脚本按完整迁移包的 SHA-256 核验来源。完整闭环还需要按原来源取得 SMPL-X 模型、Uni-Sign 权重及对应检测器。
 
 ## 研究入口
 

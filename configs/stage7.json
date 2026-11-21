@@ -1,0 +1,20 @@
+{
+  "selection": {"minimum_frames": 45, "maximum_frames": 280, "source_count": 4},
+  "calibration": ["3xni-I6N3EY_3-1-rgb_front", "EQWFrWeRVjQ_14-5-rgb_front"],
+  "search_radii_deg": [6, 3],
+  "joint_confidence": 0.3,
+  "strong_confidence": 0.45,
+  "min_hand_points": 11,
+  "min_evaluation_hands": 5,
+  "loss_weights": {"wrist": 0.29, "tips": 0.21, "shape": 0.30, "velocity": 0.20},
+  "expert_weights": {"spatial": 0.35, "temporal": 0.40, "multiscale": 0.25},
+  "expert_weight": 0.5,
+  "missing_feature_penalty": 1.0,
+  "geometry_slack_px": {"wrist": 0.5, "tips": 0.75, "shape": 0.75, "velocity": 0.5, "robust_geometry": 0.35},
+  "step_trust_deg": 3,
+  "rgb_stride": 6,
+  "rgb_max_frames": 24,
+  "rgb_sources": 2,
+  "visibility_min_contiguous_frames": 24,
+  "bootstrap_seed": 7061
+}

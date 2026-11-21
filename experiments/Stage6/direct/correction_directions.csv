@@ -1,0 +1,13 @@
+clip,method,c0_deg,c1_deg,c2_deg,c3_deg,c4_deg,c5_deg
+3xni-I6N3EY_3-1-rgb_front,B_geometry,9.0,9.0,-3.0,0.0,6.0,0.0
+bcNtUYh3GNs_0-8-rgb_front,B_geometry,-9.0,3.0,0.0,0.0,0.0,-3.0
+EQWFrWeRVjQ_14-5-rgb_front,B_geometry,-3.0,-3.0,-9.0,3.0,9.0,0.0
+33YRZ5UZTA4_15-2-rgb_front,B_geometry,-3.0,0.0,-6.0,0.0,3.0,0.0
+3xni-I6N3EY_3-1-rgb_front,C_temporal,9.0,0.0,-9.0,0.0,6.0,0.0
+bcNtUYh3GNs_0-8-rgb_front,C_temporal,-3.0,0.0,-9.0,0.0,0.0,-3.0
+EQWFrWeRVjQ_14-5-rgb_front,C_temporal,0.0,0.0,-6.0,-6.0,9.0,0.0
+33YRZ5UZTA4_15-2-rgb_front,C_temporal,-3.0,3.0,-6.0,0.0,3.0,0.0
+3xni-I6N3EY_3-1-rgb_front,D_temporal_only,6.0,0.0,-3.0,-6.0,9.0,-3.0
+bcNtUYh3GNs_0-8-rgb_front,D_temporal_only,0.0,0.0,-9.0,-9.0,0.0,0.0
+EQWFrWeRVjQ_14-5-rgb_front,D_temporal_only,0.0,0.0,-6.0,-9.0,3.0,-3.0
+33YRZ5UZTA4_15-2-rgb_front,D_temporal_only,3.0,3.0,-9.0,0.0,3.0,-9.0

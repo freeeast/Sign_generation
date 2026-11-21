@@ -1,0 +1,17 @@
+{
+  "file": "EQWFrWeRVjQ_14-5-rgb_front.mp4",
+  "sha256": "d5a0460479b856653964709b986523d30c06fb5f48dc3335377467a66abd1404",
+  "frames": 130,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.7034702139965298,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

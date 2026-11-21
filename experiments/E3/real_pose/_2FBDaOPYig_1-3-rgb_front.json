@@ -1,0 +1,17 @@
+{
+  "file": "_2FBDaOPYig_1-3-rgb_front.mp4",
+  "sha256": "9c29a6bad97a956f8bdb5aa2dfbd1b9dc0ddfdac2d23b75d96a6a76680aea548",
+  "frames": 126,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.6062775987588017,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

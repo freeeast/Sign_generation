@@ -1,0 +1,12 @@
+{
+  "rgb_robust_method": "reliable",
+  "mean_heldout_delta_old_sources_px": {
+    "factor": 0.7379183124642621,
+    "reliable": 0.12674004895013002,
+    "safe": 0.6530537300773629
+  },
+  "calibration_recordings": [
+    "3xni-I6N3EY_3-1-rgb_front",
+    "EQWFrWeRVjQ_14-5-rgb_front"
+  ]
+}

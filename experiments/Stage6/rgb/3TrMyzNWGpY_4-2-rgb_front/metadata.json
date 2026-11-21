@@ -1,0 +1,20 @@
+{
+  "clip": "3TrMyzNWGpY_4-2-rgb_front",
+  "width": 1280,
+  "height": 720,
+  "fps": 24.0,
+  "frames": 112,
+  "triangles": 20908,
+  "vertices": 10475,
+  "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+  "direct_middle_mcp_to_wrist_px": [
+    46.04706931227277,
+    44.47640962375604
+  ],
+  "rtmw_middle_mcp_to_wrist_px": [
+    46.561545216875345,
+    48.754192551368675
+  ],
+  "rgb_sha256": "53d5469b22913ff59c6de7e6caec281529c73b2e444a6179abcdddbc738522a8",
+  "failure_frame_zero_based": 0
+}

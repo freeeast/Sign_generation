@@ -1,0 +1,25 @@
+id,clip_id,condition,input_frames,prediction,reference_nll,decoy_nll,forced_choice_win,seconds
+S01,g3ushtMfLiY_5-3-rgb_front,real_rtmpose,75,"Before you go into the stage, you're going to want to make sure that you're getting the proper posture.",1.8690104,4.3880253,1,4.352
+S02,G2kVb4gINSI_3-10-rgb_front,real_rtmpose,48,You're going to want to make sure that you're getting the proper orientation.,3.7685499,4.0904474,1,3.503
+S03,_G0RrDVpOZ4_17-5-rgb_front,real_rtmpose,52,What you're going to want to do is you're going to want to let them rest on your legs.,1.8482548,3.2744827,1,3.703
+S04,G06Irzcwxiw_13-1-rgb_front,real_rtmpose,85,And that's the long term.,2.5217566,5.8179603,1,2.207
+S05,FzQPg4aqNYc_5-1-rgb_front,real_rtmpose,34,It's very good.,3.1748724,3.5561223,1,2.13
+S06,8kAWy2YodzQ_19-1-rgb_front,real_rtmpose,93,And that's how you change your ulcle.,2.2397299,3.4479086,1,2.524
+S07,G3EYpadwqck_7-5-rgb_front,real_rtmpose,42,You can see it right there.,0.9147242,5.6739302,1,1.588
+S08,f_zna_wG3zo_0-5-rgb_front,real_rtmpose,74,This drink is called  refractometers.,3.0452433,5.6774631,1,2.484
+S09,G3gm_C5UueQ_3-5-rgb_front,real_rtmpose,84,"You're going to compromise, you're going to hip-op, and you're going to hit-op.",1.5590073,2.7213569,1,4.665
+S10,g0iNy-yPisM_21-8-rgb_front,real_rtmpose,29,"Well, that's about it.",1.1237422,4.8693557,1,2.427
+S11,fzOH00UZg84_2-8-rgb_front,real_rtmpose,68,We've got some fabric blends here.,2.7054088,4.7095714,1,2.243
+S12,G2VzB5-JkRA_10-10-rgb_front,real_rtmpose,36,I'm going to go over here and I'm going to go over here and I'm going to go over here.,3.8133063,2.532357,0,4.259
+S13,G38DbiHHTW0_5-5-rgb_front,real_rtmpose,54,I've got my right.,2.8783169,3.3259971,1,1.807
+S14,-g0iPSnQt6w_16-1-rgb_front,real_rtmpose,80,That's a pretty good principle.,1.1962302,3.5065441,1,2.336
+S15,G3EfBFwsOpE_1-5-rgb_front,real_rtmpose,82,Let's talk about rescue diamonds.,0.771878,3.1681767,1,2.703
+S16,g2eTD-1Jcro_17-3-rgb_front,real_rtmpose,73,"Inhale and exhale, all the way up.",1.1496378,4.0218248,1,2.573
+S17,FzUdcaxw_vs_11-2-rgb_front,real_rtmpose,81,"Because, on my bed, I'm going to go there.",2.2562921,7.244082,1,2.703
+S18,fZgWKh3ENoE_1-8-rgb_front,real_rtmpose,73,This is your diamond dust rubber.,5.1998291,3.1876175,0,2.249
+S19,-g0sqksgyc4_4-2-rgb_front,real_rtmpose,56,You don't have to have a big step.,0.716762,4.0751905,1,2.547
+S20,G2kVb4gINSI_9-5-rgb_front,real_rtmpose,110,Down and up.,0.4744768,4.7597218,1,1.649
+S21,G3di9jJTqDs_5-10-rgb_front,real_rtmpose,56,"It's going to look like a gold one, a white one.",1.6140547,3.7478242,1,3.129
+S22,_g0fpC8aiME_6-5-rgb_front,real_rtmpose,61,"Now, this is one type of measurement.",1.0260586,5.4115314,1,2.032
+S23,G0Q6AlvH96I_10-2-rgb_front,real_rtmpose,61,You're height like a machine gun.,1.6574897,3.223573,1,2.362
+S24,g2o-GFdGOJE_3-3-rgb_front,real_rtmpose,80,"So what do you do, you know what?",2.26718,4.1435223,1,2.21

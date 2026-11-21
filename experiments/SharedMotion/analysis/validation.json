@@ -1,0 +1,69 @@
+{
+  "sample_source_sizes": [
+    600,
+    75,
+    100
+  ],
+  "feedback": {
+    "33jxeIIbBnM_21-1-rgb_front": {
+      "C_shared_only": 36,
+      "D_shared_expert": 36,
+      "same_detector_rows": 6
+    },
+    "3sZjSNcqXpI_2-1-rgb_front": {
+      "C_shared_only": 36,
+      "D_shared_expert": 36,
+      "same_detector_rows": 6
+    },
+    "DKOzSnHwSFI_7-5-rgb_front": {
+      "C_shared_only": 36,
+      "D_shared_expert": 36,
+      "same_detector_rows": 6
+    },
+    "ETOZLBScxWY_12-5-rgb_front": {
+      "C_shared_only": 36,
+      "D_shared_expert": 36,
+      "same_detector_rows": 6
+    }
+  },
+  "videos": [
+    {
+      "video": "Video1_teacher_forced.mp4",
+      "codec_name": "h264",
+      "width": 1050,
+      "height": 720,
+      "r_frame_rate": "24/1",
+      "nb_frames": "128"
+    },
+    {
+      "video": "Video2_free_running.mp4",
+      "codec_name": "h264",
+      "width": 1050,
+      "height": 480,
+      "r_frame_rate": "24/1",
+      "nb_frames": "128"
+    },
+    {
+      "video": "Video3_both_hands.mp4",
+      "codec_name": "h264",
+      "width": 900,
+      "height": 600,
+      "r_frame_rate": "24/1",
+      "nb_frames": "128"
+    },
+    {
+      "video": "Video4_feedback_integration.mp4",
+      "codec_name": "h264",
+      "width": 990,
+      "height": 416,
+      "r_frame_rate": "24/1",
+      "nb_frames": "212"
+    }
+  ],
+  "asset_hashes": {
+    "smplx": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992",
+    "unisign": "1bfd5f3312f04e4736f0a52f4ef9535916e6de9676a2a0d00c708748683fb00d",
+    "detector": "ceb11c07298f95c50d7c5abeb906d03340c85f23aa79e3e66966e7fb6c307250",
+    "rtmw": "68db326c5c6f3273456f803eae0faf5440478369f2c3ee67258d2f36512e8d76"
+  }
+}

@@ -1,0 +1,5 @@
+clip,family,control,geometry,restored_minus_control_nll,restored_minus_control_cosine,restored_minus_control_geometry_A_px,restored_minus_control_geometry_B_px,geometry_only_correct,nll_tiebreak_correct,cosine_tiebreak_correct
+bBHYQCDp_9A_4-3-rgb_front,finger_articulation,corrupted16,handshape,-0.06962728500366211,0.0074179768562316895,-0.4587915080696696,-0.8912552761834611,True,True,True
+0zvsqf23tmw_16-2-rgb_front,wrist_orientation,alternative_from16,handshape,0.00466156005859375,-0.0008788108825683594,-0.388165898435501,-0.4572674383866939,True,False,False
+bBHYQCDp_9A_4-3-rgb_front,wrist_orientation,alternative_from16,handshape,0.0461277961730957,-0.0003387331962585449,-0.187515084343838,-0.10996210931300077,True,False,False
+0zvsqf23tmw_16-2-rgb_front,wrist_position_via_elbows,alternative_from16,tip,0.04088473320007324,0.000268399715423584,0.3846941208533394,0.2423179624281353,True,True,False

@@ -1,0 +1,93 @@
+{
+  "checks": [
+    {
+      "source": "3sZjSNcqXpI_2-1-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 143
+    },
+    {
+      "source": "33jxeIIbBnM_21-1-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 131
+    },
+    {
+      "source": "ETOZLBScxWY_12-5-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 139
+    },
+    {
+      "source": "DKOzSnHwSFI_7-5-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 130
+    },
+    {
+      "source": "bcNtUYh3GNs_0-8-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 121
+    },
+    {
+      "source": "33YRZ5UZTA4_15-2-rgb_front",
+      "methods": 12,
+      "checked_rejected_rollbacks": 133
+    }
+  ],
+  "visuals": [
+    {
+      "file": "A_stable_camera_lower_body.mp4",
+      "codec_name": "h264",
+      "width": 1110,
+      "height": 760,
+      "r_frame_rate": "24/1",
+      "nb_frames": "212"
+    },
+    {
+      "file": "B_handshape_frame90.mp4",
+      "codec_name": "h264",
+      "width": 1350,
+      "height": 540,
+      "r_frame_rate": "24/1",
+      "nb_frames": "37"
+    },
+    {
+      "file": "C_guarded_learning_progress.mp4",
+      "codec_name": "h264",
+      "width": 1460,
+      "height": 216,
+      "r_frame_rate": "24/1",
+      "nb_frames": "212"
+    },
+    {
+      "file": "D_full_signing_comparison.mp4",
+      "codec_name": "h264",
+      "width": 1600,
+      "height": 384,
+      "r_frame_rate": "24/1",
+      "nb_frames": "212"
+    },
+    {
+      "file": "D_locked_33YRZ5UZTA4.mp4",
+      "codec_name": "h264",
+      "width": 1600,
+      "height": 192,
+      "r_frame_rate": "24/1",
+      "nb_frames": "173"
+    },
+    {
+      "file": "D_locked_bcNtUYh3GNs.mp4",
+      "codec_name": "h264",
+      "width": 1600,
+      "height": 192,
+      "r_frame_rate": "24/1",
+      "nb_frames": "64"
+    }
+  ],
+  "sha256": {
+    "SMPL-X": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992",
+    "checkpoint": "1bfd5f3312f04e4736f0a52f4ef9535916e6de9676a2a0d00c708748683fb00d",
+    "detector": "ceb11c07298f95c50d7c5abeb906d03340c85f23aa79e3e66966e7fb6c307250",
+    "RTMW": "68db326c5c6f3273456f803eae0faf5440478369f2c3ee67258d2f36512e8d76"
+  },
+  "asset_commit": "eed438bcb49e30405cd6ccdfcccca330c134e830",
+  "frozen_before_locked_algorithm": true,
+  "reporting_only_fix": "Missing-hand dynamic score serialized as null; optimizer parameters and existing motions reused."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "f5EGPzGSCJs_13-8-rgb_front.mp4",
+  "sha256": "0d40c6efeb13e22a9696357fef01f041a93039e898227c6cee491cc542b9a2eb",
+  "frames": 94,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.6093425051991681,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

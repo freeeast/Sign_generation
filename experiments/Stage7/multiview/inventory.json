@@ -1,0 +1,26 @@
+[
+  {
+    "clip": "33jxeIIbBnM_21-1-rgb_front",
+    "status": "downloaded",
+    "member": "raw_videos/33jxeIIbBnM_21-1-rgb_side.mp4",
+    "sha256": "202f578f7bb1564d64946abc0acb764b86f0a6254b26707c2e083fc44aa6748a"
+  },
+  {
+    "clip": "3sZjSNcqXpI_2-1-rgb_front",
+    "status": "downloaded",
+    "member": "raw_videos/3sZjSNcqXpI_2-1-rgb_side.mp4",
+    "sha256": "d08eca495aefe083e3959462cec4f2b0a9dd3be71b41f3f0a4f64b202eb97f89"
+  },
+  {
+    "clip": "ETOZLBScxWY_12-5-rgb_front",
+    "status": "downloaded",
+    "member": "raw_videos/ETOZLBScxWY_12-5-rgb_side.mp4",
+    "sha256": "47b04d2dce3b6b663e76e1577660747cbc240420c14fa39725a79f6e38676227"
+  },
+  {
+    "clip": "DKOzSnHwSFI_7-5-rgb_front",
+    "status": "downloaded",
+    "member": "raw_videos/DKOzSnHwSFI_7-5-rgb_side.mp4",
+    "sha256": "de0355b02b27f14c2c3339fe99a809219459cf00f82a9de23c2f767de76e85f8"
+  }
+]

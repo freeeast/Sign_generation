@@ -1,0 +1,17 @@
+{
+  "file": "33YRZ5UZTA4_15-2-rgb_front.mp4",
+  "sha256": "32be4bc2de7e48105826ec1f1c83dac8e4adb71dfcbb5cbb14fb6690c8ac3603",
+  "frames": 173,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.5975922465122343,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

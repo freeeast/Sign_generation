@@ -1,0 +1,13 @@
+# Install matching torch / torchvision first. See README.md.
+numpy==2.3.5
+matplotlib==3.10.8
+pillow>=10
+decord==0.6.0
+deepspeed==0.16.3
+einops==0.8.1
+transformers==4.40.0
+sentencepiece==0.2.0
+protobuf==4.25.8
+smplx==0.1.28
+scipy==1.17.0
+requests>=2.32

@@ -1,0 +1,19 @@
+{
+  "calibration_clip": "0zvsqf23tmw_16-2-rgb_front",
+  "evaluation_clips": ["3TrMyzNWGpY_4-2-rgb_front", "f5EGPzGSCJs_13-8-rgb_front"],
+  "families": ["finger_articulation", "wrist_orientation", "arm_trajectory"],
+  "basis_seed": 5061,
+  "corruption_coeff_deg": [7, -8, 9, 6, -8, 7],
+  "off_basis_deg": 4,
+  "max_coeff_deg": 12,
+  "sweeps_deg": [6, 3, 1.5],
+  "fit_frames": "even",
+  "audit_frames": "odd",
+  "feedback_weight": 0.5,
+  "coefficient_penalty": 0.05,
+  "smoothness_penalty": 0.05,
+  "max_correction_joint_deg": 20,
+  "max_correction_velocity_deg_per_frame": 2,
+  "max_correction_accel_deg_per_frame2": 0.5,
+  "rtmw_threshold": 0.3
+}

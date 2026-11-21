@@ -1,0 +1,57 @@
+{
+  "clip_id": "ETOZLBScxWY_12-5-rgb_front",
+  "video_id": "ETOZLBScxWY",
+  "video_name": "ETOZLBScxWY-5-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "If your rain fly begins to leak, or your tent begins to leak, you need to take and replace the seam sealing on it.",
+  "original_start_s": 75.61,
+  "original_end_s": 82.45,
+  "fit_frames": 218,
+  "rgb_frames": 218,
+  "rgb_fps": 24,
+  "body_holdout_px": 16.903025412117763,
+  "wrists_holdout_px": 22.89737799866832,
+  "fingertips_holdout_px": 18.554818885830052,
+  "fingers_holdout_px": 17.755471971688443,
+  "face_holdout_px": 10.099432562743287,
+  "hand_acceleration_m_per_frame2_median": 0.023280825465917587,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.49122665301908464,
+      0.0,
+      0.27826885133864954
+    ],
+    [
+      0.0,
+      1.048397246809592,
+      0.05208516650103133
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 18.730985641479492,
+  "primary_outside_image_fraction": 0.07670552528109265,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "17c6e670e181eeca059ac531cdf9eef1e44d4f98545967568db7ae53776b7e0c",
+  "nsa_members_sha256": "e58e8a002b60d9fd108e6fd7fa916e3ce7f6e0b57bf98b2e55a929ca1b29b8b4",
+  "frame_time_max_error_ms": 1.7763568394002505e-12,
+  "mp_total_detected": 432,
+  "mp_odd_associated": 217,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 19.0592608393179,
+    "tips": 16.811914621343092,
+    "handshape": 10.45640312101826
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

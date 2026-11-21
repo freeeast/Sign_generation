@@ -1,0 +1,14 @@
+{
+  "level": "C",
+  "type": "synthetic local rotations",
+  "static_betas": true,
+  "degrees": [
+    16,
+    -15,
+    18,
+    14,
+    -16,
+    17
+  ],
+  "off_axis_degrees": 8
+}

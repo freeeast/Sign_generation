@@ -1,0 +1,4 @@
+condition,n,bleu4,chrf,exact,distinct,wins,mean_nll,mean_margin
+real,24,17.7359,40.5963,1,24,22,2.074659,2.115949
+generated_proxy,24,0.4249,13.0605,0,20,15,3.909312,0.054881
+static_proxy,24,0.339,15.9129,0,6,13,3.655685,0.033099

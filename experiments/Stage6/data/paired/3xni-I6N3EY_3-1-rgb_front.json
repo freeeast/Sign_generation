@@ -1,0 +1,57 @@
+{
+  "clip_id": "3xni-I6N3EY_3-1-rgb_front",
+  "video_id": "3xni-I6N3EY",
+  "video_name": "3xni-I6N3EY-1-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "You had observation as the key point.",
+  "original_start_s": 37.11,
+  "original_end_s": 39.62,
+  "fit_frames": 61,
+  "rgb_frames": 61,
+  "rgb_fps": 24,
+  "body_holdout_px": 14.227516461017647,
+  "wrists_holdout_px": 44.57206467276349,
+  "fingertips_holdout_px": 25.547867152571285,
+  "fingers_holdout_px": 20.48603106877745,
+  "face_holdout_px": 6.96677681336838,
+  "hand_acceleration_m_per_frame2_median": 0.01645074039697647,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.441482599239742,
+      0.0,
+      0.2736606170981638
+    ],
+    [
+      0.0,
+      0.8795157137809239,
+      0.11792195213770353
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 18.54766845703125,
+  "primary_outside_image_fraction": 0.1694810797485517,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "2ca6829377f49f20601bb7adee24f6f475c36fc884bda3b01058bb1e8167858f",
+  "nsa_members_sha256": "56137233155dfd2689140bf38071cef2264d7e4ccbe1b2c1206b2d5d51c5fcf7",
+  "frame_time_max_error_ms": 4.440892098500626e-13,
+  "mp_total_detected": 52,
+  "mp_odd_associated": 25,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 22.626452009579058,
+    "tips": 20.334355507740828,
+    "handshape": 11.62190433461664
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

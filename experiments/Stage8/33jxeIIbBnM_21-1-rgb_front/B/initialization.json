@@ -1,0 +1,8 @@
+{
+  "level": "B",
+  "type": "RTMW-even arm inverse kinematics",
+  "static_betas": true,
+  "knots": 4,
+  "fitted_frames": 25,
+  "observed_landmarks": 300
+}

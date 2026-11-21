@@ -1,0 +1,54 @@
+[
+  {
+    "clip_id": "3xni-I6N3EY_3-1-rgb_front",
+    "video_id": "3xni-I6N3EY",
+    "video_name": "3xni-I6N3EY-1-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "You had observation as the key point.",
+    "original_start_s": 37.11,
+    "original_end_s": 39.62,
+    "fit_frames": 61,
+    "rgb_frames": 61,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "bcNtUYh3GNs_0-8-rgb_front",
+    "video_id": "bcNtUYh3GNs",
+    "video_name": "bcNtUYh3GNs-8-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "I'm Veronyka Bass from Veronyka's Color Salon and Day Spa.",
+    "original_start_s": 0.32,
+    "original_end_s": 2.98,
+    "fit_frames": 64,
+    "rgb_frames": 64,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "EQWFrWeRVjQ_14-5-rgb_front",
+    "video_id": "EQWFrWeRVjQ",
+    "video_name": "EQWFrWeRVjQ-5-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "And then this is the boom, and then this is the head.",
+    "original_start_s": 69.07,
+    "original_end_s": 73.15,
+    "fit_frames": 130,
+    "rgb_frames": 130,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "33YRZ5UZTA4_15-2-rgb_front",
+    "video_id": "33YRZ5UZTA4",
+    "video_name": "33YRZ5UZTA4-2-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "We can just put a little dab of black there, same as up here.",
+    "original_start_s": 72.52,
+    "original_end_s": 79.73,
+    "fit_frames": 173,
+    "rgb_frames": 173,
+    "rgb_fps": 24
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "file": "0zvsqf23tmw_16-2-rgb_front.mp4",
+  "sha256": "970ae4c8624303b3bebda62e9d308b7033fd73c54d97138ceba96ec9fd56824a",
+  "frames": 140,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.622234156820623,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

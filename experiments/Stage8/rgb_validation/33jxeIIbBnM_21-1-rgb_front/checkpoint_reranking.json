@@ -1,0 +1,11 @@
+{
+  "eligible": [
+    "C_sequential_06",
+    "C_sequential_12",
+    "C_sequential_18"
+  ],
+  "selected": "C_sequential_18",
+  "selected_response": 0.08678759588645055,
+  "final_precommitted": "C_sequential_18",
+  "geometry_only_comparator": "A_geometry_18"
+}

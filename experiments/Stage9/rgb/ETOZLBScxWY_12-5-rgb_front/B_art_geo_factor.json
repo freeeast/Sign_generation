@@ -1,0 +1,22 @@
+{
+  "source": "ETOZLBScxWY_12-5-rgb_front",
+  "level": "B",
+  "variant": "art_geo_factor",
+  "frames": 14,
+  "elapsed_s": 2.5937831070004904,
+  "visible_person": 14,
+  "rgb_response": 0.14868863714592795,
+  "rgb_spatial": 0.16852919118744986,
+  "rgb_temporal": 0.17335878099714006,
+  "rgb_multiscale": 0.08143963132585798,
+  "rgb_support": 1.0,
+  "rgb_visible_fraction": 1.0,
+  "rgb_supported_real_hand_frames": 28,
+  "direct_response": 0.1614496790937015,
+  "direct_spatial": 0.19546461531094142,
+  "direct_temporal": 0.18157207327229635,
+  "direct_multiscale": 0.08163293770381383,
+  "direct_support": 1.0,
+  "direct_visible_fraction": 1.0,
+  "direct_supported_real_hand_frames": 28
+}

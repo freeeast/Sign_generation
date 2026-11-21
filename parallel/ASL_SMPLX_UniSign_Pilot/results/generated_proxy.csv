@@ -1,0 +1,25 @@
+id,clip_id,condition,input_frames,prediction,reference_nll,decoy_nll,forced_choice_win,seconds
+S01,g3ushtMfLiY_5-3-rgb_front,rig_proxy,86,I'm going to place it on a shelf.,3.6063924,3.8898032,1,3.461
+S02,G2kVb4gINSI_3-10-rgb_front,rig_proxy,74,And I'm going to come up here and I'm going to come up here.,3.8970659,4.5628519,1,5.416
+S03,_G0RrDVpOZ4_17-5-rgb_front,rig_proxy,58,I'm going to place it on the floor.,4.8054886,3.3411987,0,2.544
+S04,G06Irzcwxiw_13-1-rgb_front,rig_proxy,58,I'm going to come up here and I'm going to come up here.,3.2873745,4.8790827,1,3.684
+S05,FzQPg4aqNYc_5-1-rgb_front,rig_proxy,78,I'm going to place it on top of the shelf and I'm going to put it on top of the shelf.,4.840713,3.8559468,0,5.032
+S06,8kAWy2YodzQ_19-1-rgb_front,rig_proxy,100,I'm going to take it and I'm going to drop it down.,4.0573187,2.943747,0,4.136
+S07,G3EYpadwqck_7-5-rgb_front,rig_proxy,58,I'm going to come up here and I'm going to come up here.,3.2668624,5.5026674,1,3.71
+S08,f_zna_wG3zo_0-5-rgb_front,rig_proxy,120,And then she's going to come up and she's going to come up and then she's going to come up with a,5.2647972,5.6710987,1,5.407
+S09,G3gm_C5UueQ_3-5-rgb_front,rig_proxy,96,I'm going to take the cardboard and I'm going to put it on the side of the cardboard.,5.5831189,2.0172358,0,5.045
+S10,g0iNy-yPisM_21-8-rgb_front,rig_proxy,64,I'm going to come up here and I'm going to come up here.,2.1050565,4.0381198,1,4.925
+S11,fzOH00UZg84_2-8-rgb_front,rig_proxy,108,I'm going to come up here and I'm going to rub it on my back.,3.5049942,4.5398965,1,4.666
+S12,G2VzB5-JkRA_10-10-rgb_front,rig_proxy,80,I'm going to put them in a comb.,4.0812039,3.1343071,0,3.792
+S13,G38DbiHHTW0_5-5-rgb_front,rig_proxy,78,I'm going to come up here and I'm going to show you what it looks like.,3.1535308,3.7703693,1,5.171
+S14,-g0iPSnQt6w_16-1-rgb_front,rig_proxy,76,And then she's going to come up and draw her belly in.,3.7486005,4.3387656,1,3.73
+S15,G3EfBFwsOpE_1-5-rgb_front,rig_proxy,106,I'm going to come over here and I'm going to lift up my yoyo.,4.4256148,2.5338473,0,4.436
+S16,g2eTD-1Jcro_17-3-rgb_front,rig_proxy,44,She's going to come up and lift her head up.,2.0441525,3.6103675,1,2.904
+S17,FzUdcaxw_vs_11-2-rgb_front,rig_proxy,72,I'm going to come up here and I'm going to come up here.,3.9062812,7.3128891,1,5.081
+S18,fZgWKh3ENoE_1-8-rgb_front,rig_proxy,156,And then she's going to come up and she's going to come up and she's going to come up and she's,7.4448395,3.0792034,0,5.482
+S19,-g0sqksgyc4_4-2-rgb_front,rig_proxy,92,I'm going to lift up onto the floor and I'm going to lift up on the floor.,2.7277727,3.07864,1,4.27
+S20,G2kVb4gINSI_9-5-rgb_front,rig_proxy,44,I'm going to come up here and I'm going to come up here.,2.1306367,3.8250842,1,3.521
+S21,G3di9jJTqDs_5-10-rgb_front,rig_proxy,78,She's going to come up and I'm going to come up and I'm going to come up and I'm going,3.7037334,3.6838868,0,4.601
+S22,_g0fpC8aiME_6-5-rgb_front,rig_proxy,90,I'm going to come up and I'm going to place it in my hand and I'm going to come up.,3.8607774,4.6002865,1,5.16
+S23,G0Q6AlvH96I_10-2-rgb_front,rig_proxy,108,I'm going to take my arm up and I'm going to take my arm up and I'm going to take my arm up,5.3165116,2.8570862,0,5.182
+S24,g2o-GFdGOJE_3-3-rgb_front,rig_proxy,78,I'm going to place it on the top of my box.,3.0606501,4.0742388,1,2.969

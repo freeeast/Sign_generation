@@ -1,0 +1,57 @@
+{
+  "clip_id": "EQWFrWeRVjQ_14-5-rgb_front",
+  "video_id": "EQWFrWeRVjQ",
+  "video_name": "EQWFrWeRVjQ-5-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "And then this is the boom, and then this is the head.",
+  "original_start_s": 69.07,
+  "original_end_s": 73.15,
+  "fit_frames": 130,
+  "rgb_frames": 130,
+  "rgb_fps": 24,
+  "body_holdout_px": 21.89299299859221,
+  "wrists_holdout_px": 25.43382859422565,
+  "fingertips_holdout_px": 30.77122544186213,
+  "fingers_holdout_px": 27.98782395225725,
+  "face_holdout_px": 16.785840411755665,
+  "hand_acceleration_m_per_frame2_median": 0.014325281605124474,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.5062519454924221,
+      0.0,
+      0.27535722627725473
+    ],
+    [
+      0.0,
+      0.9720590741085414,
+      0.09152652083595009
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 18.930984497070312,
+  "primary_outside_image_fraction": 0.081203007518797,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "d5a0460479b856653964709b986523d30c06fb5f48dc3335377467a66abd1404",
+  "nsa_members_sha256": "c6b2f31e51ad66f3a9289dc5dcf4e171f0e3fff4411f6dfe75602fe5ad10a7d4",
+  "frame_time_max_error_ms": 8.881784197001252e-13,
+  "mp_total_detected": 225,
+  "mp_odd_associated": 106,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 26.762381144149003,
+    "tips": 27.701160067367315,
+    "handshape": 17.851100644788325
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

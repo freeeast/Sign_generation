@@ -1,0 +1,12 @@
+{
+  "scope": "Pilot continuation rule for the five existing validation clips; no population-level guarantee",
+  "G1": {
+    "requirements": ["finite SMPL-X FK and 133 landmarks for every frame", "matching anatomical x orientation and unshifted frame comparison within +/-4 frames", "each median wrist and fingertip error at most 0.2 observed shoulder widths"]
+  },
+  "G2": {
+    "virtual_to_real_retrieval_top1_min_of_5_queries_against_9_poses": 4,
+    "fixed_reference_virtual_nll_pairwise_wins_min_of_20": 15,
+    "same_recording_encoder_pairwise_wins_min_of_3_for_single_available_query": 2
+  },
+  "notes": "Thresholds are operational pilot criteria. Five fits come from five source recordings. Same-recording control is available for one query; other queries have cross-recording controls only."
+}

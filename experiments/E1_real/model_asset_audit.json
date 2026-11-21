@@ -1,0 +1,54 @@
+{
+  "sha256": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992",
+  "array_shapes": {
+    "v_template": [
+      10475,
+      3
+    ],
+    "shapedirs": [
+      10475,
+      3,
+      400
+    ],
+    "posedirs": [
+      10475,
+      3,
+      486
+    ],
+    "J_regressor": [
+      55,
+      10475
+    ],
+    "weights": [
+      10475,
+      55
+    ],
+    "hands_meanl": [
+      45
+    ],
+    "hands_meanr": [
+      45
+    ],
+    "dynamic_lmk_faces_idx": [
+      79,
+      17
+    ],
+    "dynamic_lmk_bary_coords": [
+      79,
+      17,
+      3
+    ]
+  },
+  "finite_arrays": [
+    "v_template",
+    "shapedirs",
+    "posedirs",
+    "J_regressor",
+    "weights",
+    "hands_meanl",
+    "hands_meanr",
+    "dynamic_lmk_faces_idx",
+    "dynamic_lmk_bary_coords"
+  ],
+  "source": "user-supplied SMPLX_NEUTRAL.npz"
+}

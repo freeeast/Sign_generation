@@ -1,0 +1,17 @@
+{
+  "file": "3TrMyzNWGpY_4-2-rgb_front.mp4",
+  "sha256": "53d5469b22913ff59c6de7e6caec281529c73b2e444a6179abcdddbc738522a8",
+  "frames": 112,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.6293635875402793,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

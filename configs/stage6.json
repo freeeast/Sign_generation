@@ -1,0 +1,23 @@
+{
+  "selection": {
+    "nsa_prefix_bytes": 6500000,
+    "minimum_frames": 60,
+    "maximum_frames": 175,
+    "source_count": 4,
+    "rule": "Shortest eligible complete validation clip per new VIDEO_ID, ordered by fitted frame count and clip ID. Exclude every Stage 5/earlier validation manifest VIDEO_ID before inspecting any scores."
+  },
+  "sweeps_deg": [6, 3],
+  "guard_wrist_slack_px": 0.5,
+  "strict_trust_coeff_deg": 9,
+  "early_checkpoint_steps": 6,
+  "rgb": {
+    "frame_stride": 3,
+    "proposal_axes": [0, 2, 4],
+    "step_deg": 6,
+    "min_person_fraction": 0.9,
+    "min_hand_qualified_fraction_each": 0.7,
+    "max_candidate_hand_loss_fraction": 0.1,
+    "min_hand_landmarks_over_threshold": 11,
+    "secondary_video": "3TrMyzNWGpY_4-2-rgb_front"
+  }
+}

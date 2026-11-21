@@ -1,0 +1,17 @@
+{
+  "file": "bcNtUYh3GNs_0-8-rgb_front.mp4",
+  "sha256": "4d70a733c55b7876f620fbd8066e47a47e8d7ec2c1b55304e4d3a3620a419e16",
+  "frames": 64,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.6328712406015038,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

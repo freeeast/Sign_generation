@@ -1,0 +1,78 @@
+{
+  "clip": "3xni-I6N3EY_3-1-rgb_front",
+  "width": 1280,
+  "height": 720,
+  "fps": 24.0,
+  "frames": 61,
+  "triangles": 20908,
+  "vertices": 10475,
+  "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+  "direct_middle_mcp_to_wrist_px": [
+    69.69265007332238,
+    65.45954095975253
+  ],
+  "rtmw_middle_mcp_to_wrist_px": [
+    40.41535943770923,
+    49.43819669555464
+  ],
+  "rgb_sha256": "2ca6829377f49f20601bb7adee24f6f475c36fc884bda3b01058bb1e8167858f",
+  "failure_frame_zero_based": 0,
+  "loop_gate": {
+    "rgb": {
+      "initial": {
+        "person_fraction": 1.0,
+        "left_visible_joint_fraction": 1.0,
+        "left_qualified_frame_fraction": 1.0,
+        "left_median_confidence": 0.8562660217285156,
+        "right_visible_joint_fraction": 1.0,
+        "right_qualified_frame_fraction": 1.0,
+        "right_median_confidence": 0.8255183696746826,
+        "rtmw_even_wrists": 52.94449985815545,
+        "rtmw_even_tips": 22.83646220213074,
+        "rtmw_even_handshape": 47.11514424555079,
+        "mp_held_wrists": 16.913907871414352,
+        "mp_held_tips": 15.34825253280302,
+        "mp_held_handshape": 12.002743368987776,
+        "rtmw_even_combined": 40.96536876861233,
+        "mp_held_combined": 14.754967924401717,
+        "global_encoder": 0.051950931549072266,
+        "frame_encoder": 0.04530475661158562,
+        "hand_spatial": 0.10814286768436432,
+        "hand_temporal": 0.08123942464590073,
+        "correction_joint_deg": 0.0,
+        "correction_velocity_deg_per_frame": 0.0,
+        "correction_accel_deg_per_frame2": 0.0,
+        "constraint_violations": 0
+      },
+      "passes_gate": true
+    },
+    "direct": {
+      "initial": {
+        "person_fraction": 1.0,
+        "left_visible_joint_fraction": 1.0,
+        "left_qualified_frame_fraction": 1.0,
+        "left_median_confidence": 1.0,
+        "right_visible_joint_fraction": 1.0,
+        "right_qualified_frame_fraction": 1.0,
+        "right_median_confidence": 1.0,
+        "rtmw_even_wrists": 52.94449985815545,
+        "rtmw_even_tips": 22.83646220213074,
+        "rtmw_even_handshape": 47.11514424555079,
+        "mp_held_wrists": 16.913907871414352,
+        "mp_held_tips": 15.34825253280302,
+        "mp_held_handshape": 12.002743368987776,
+        "rtmw_even_combined": 40.96536876861233,
+        "mp_held_combined": 14.754967924401717,
+        "global_encoder": 0.08928018808364868,
+        "frame_encoder": 0.08482547104358673,
+        "hand_spatial": 0.1969781219959259,
+        "hand_temporal": 0.13764908909797668,
+        "correction_joint_deg": 0.0,
+        "correction_velocity_deg_per_frame": 0.0,
+        "correction_accel_deg_per_frame2": 0.0,
+        "constraint_violations": 0
+      },
+      "passes_gate": true
+    }
+  }
+}

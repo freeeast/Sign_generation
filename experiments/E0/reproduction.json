@@ -1,0 +1,17 @@
+{
+  "total": 9,
+  "independent_cpu_run_exact_prediction_matches": 9,
+  "max_abs_nll_delta_between_runs": 2.384185791015625e-07,
+  "exact_matches_to_author_saved_predictions": 3,
+  "author_saved_prediction_exact_match_by_clip": {
+    "FZNuNG9UBnw_8-1-rgb_front": true,
+    "G2sD7N53ju8_11-5-rgb_front": false,
+    "G2lEchCCRAo_4-5-rgb_front": false,
+    "G0Q6AlvH96I_12-2-rgb_front": false,
+    "g1ccEYTMGGY_17-10-rgb_front": false,
+    "fzQ2E3_xBZA_0-8-rgb_front": false,
+    "G3di9jJTqDs_14-10-rgb_front": false,
+    "fzQ2E3_xBZA_3-5-rgb_front": true,
+    "g2NA_eBUcH8_17-3-rgb_front": true
+  }
+}

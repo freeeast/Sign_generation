@@ -1,0 +1,17 @@
+{
+  "source": "3sZjSNcqXpI_2-1-rgb_front",
+  "frame_count": 212,
+  "checked_coefficient_name": "left.thumb.flex",
+  "checked_knot_index": 2,
+  "autograd": -0.0029048174619674683,
+  "finite_differences": {
+    "0.001": -0.003054737811908126,
+    "0.0003": -0.002992649795487523
+  },
+  "absolute_saved_rotation_diff_rad": 0.0,
+  "sparse_final_fk_max_abs_mm": 0.0007152557373046875,
+  "sparse_final_projection_max_abs_px": 0.6070441437022112,
+  "archived_expert_distance": 0.09314474029974504,
+  "replayed_expert_distance": 0.09314474497329106,
+  "full_mesh_expert_distance": 0.0931695072827014
+}

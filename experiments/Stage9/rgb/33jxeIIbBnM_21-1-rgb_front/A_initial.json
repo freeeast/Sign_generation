@@ -1,0 +1,22 @@
+{
+  "source": "33jxeIIbBnM_21-1-rgb_front",
+  "level": "A",
+  "variant": "initial",
+  "frames": 13,
+  "elapsed_s": 2.493690233999587,
+  "visible_person": 13,
+  "rgb_response": 0.04614886973912899,
+  "rgb_spatial": 0.0460073879131904,
+  "rgb_temporal": 0.052354120291196383,
+  "rgb_multiscale": 0.0364185434121352,
+  "rgb_support": 1.0,
+  "rgb_visible_fraction": 1.0,
+  "rgb_supported_real_hand_frames": 26,
+  "direct_response": 0.11387741130131943,
+  "direct_spatial": 0.11012493188564594,
+  "direct_temporal": 0.12753957280745873,
+  "direct_multiscale": 0.09727142407343939,
+  "direct_support": 1.0,
+  "direct_visible_fraction": 1.0,
+  "direct_supported_real_hand_frames": 26
+}

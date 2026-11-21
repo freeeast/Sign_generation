@@ -1,0 +1,16 @@
+{
+  "n_pairs": 5,
+  "retrieval_top1_of_9": 5,
+  "nll_top1_of_5": 4,
+  "nll_pairwise_wins": 16,
+  "nll_pairwise_n": 20,
+  "same_source_cosine_wins": 3,
+  "same_source_n": 3,
+  "median_nll_gap": -0.0460817813873291,
+  "median_matching_cosine": 0.8126485347747803,
+  "median_mismatching_cosine": 0.292355552315712,
+  "median_js_nats": 0.0726091871605354,
+  "median_token_agreement": 0.7200000286102295,
+  "nll_label_permutation_p": 0.016666666666666666,
+  "cosine_label_permutation_p": 0.008333333333333333
+}

@@ -1,0 +1,23 @@
+{
+  "sources": ["33jxeIIbBnM_21-1-rgb_front", "3sZjSNcqXpI_2-1-rgb_front", "ETOZLBScxWY_12-5-rgb_front"],
+  "stage7_root": "experiments/Stage7",
+  "reference_stride": 4,
+  "max_expert_frames": 44,
+  "sweeps_deg": [6, 3, 1.5],
+  "axis_order": [4, 5, 2, 3, 0, 1],
+  "minimum_response_gain": 0.00005,
+  "maximum_support_loss": 0.05,
+  "stage7_factor_weights": [0.35, 0.40, 0.25],
+  "geometry_weights": {"wrist": 0.29, "tips": 0.21, "shape": 0.30, "velocity": 0.20},
+  "geometry_slack_px": {"wrist": 0.5, "tips": 0.75, "shape": 0.75, "velocity": 0.5, "geometry": 0.35},
+  "joint_feedback_weight": 0.5,
+  "kinematic_absolute_deg": {"shoulder": 155, "elbow": 150, "wrist": 100, "finger": 120},
+  "coarse": {"steps": 115, "knot_spacing_frames": 16, "fit_stride": 2, "lr": 0.045,
+    "rotation_radius_deg": [125, 125, 125, 125, 80, 80], "palm_weight": 0.45,
+    "rotation_weight": 0.065, "knot_curvature_weight": 0.26},
+  "challenge_deg": [16, -15, 18, 14, -16, 17],
+  "challenge_off_axis_deg": 8,
+  "rgb_sources": ["33jxeIIbBnM_21-1-rgb_front", "3sZjSNcqXpI_2-1-rgb_front"],
+  "rgb_max_frames": 18,
+  "checkpoint_steps": [0, 6, 12, 18]
+}

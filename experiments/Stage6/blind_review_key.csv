@@ -1,0 +1,13 @@
+sample,file,clip,condition
+sample_01,A.mp4,bcNtUYh3GNs_0-8-rgb_front,C_temporal_final_parameters.npz
+sample_01,B.mp4,bcNtUYh3GNs_0-8-rgb_front,I_perturbed_parameters.npz
+sample_01,C.mp4,bcNtUYh3GNs_0-8-rgb_front,B_geometry_final_parameters.npz
+sample_02,A.mp4,33YRZ5UZTA4_15-2-rgb_front,C_temporal_final_parameters.npz
+sample_02,B.mp4,33YRZ5UZTA4_15-2-rgb_front,B_geometry_final_parameters.npz
+sample_02,C.mp4,33YRZ5UZTA4_15-2-rgb_front,I_perturbed_parameters.npz
+sample_03,A.mp4,EQWFrWeRVjQ_14-5-rgb_front,B_geometry_final_parameters.npz
+sample_03,B.mp4,EQWFrWeRVjQ_14-5-rgb_front,C_temporal_final_parameters.npz
+sample_03,C.mp4,EQWFrWeRVjQ_14-5-rgb_front,I_perturbed_parameters.npz
+sample_04,A.mp4,3xni-I6N3EY_3-1-rgb_front,C_temporal_final_parameters.npz
+sample_04,B.mp4,3xni-I6N3EY_3-1-rgb_front,I_perturbed_parameters.npz
+sample_04,C.mp4,3xni-I6N3EY_3-1-rgb_front,B_geometry_final_parameters.npz

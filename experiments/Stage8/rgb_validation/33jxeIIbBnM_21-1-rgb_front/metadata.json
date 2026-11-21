@@ -1,0 +1,20 @@
+{
+  "sample_frames": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48
+  ],
+  "person_present_frames": 13,
+  "nearest_cached_keypoint_max_abs": 0.0,
+  "detector_configuration": "YOLOX 416x416 and RTMW 192x256"
+}

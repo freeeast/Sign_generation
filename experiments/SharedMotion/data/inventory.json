@@ -1,0 +1,159 @@
+{
+  "official_archive": {
+    "train": {
+      "archive_coverage": "complete central index",
+      "central_entries": 5065182,
+      "bad_indices": [],
+      "ignored_entries": {
+        "directories": 30966
+      },
+      "sample_pool": {
+        "clips": 1870,
+        "frames": 325859,
+        "sources": 1222,
+        "mean_frames": 174.25614973262032,
+        "frame_quantiles": [
+          40.0,
+          86.0,
+          135.0,
+          217.0,
+          432.7499999999998,
+          1155.0
+        ],
+        "nominal_24fps_duration_quantiles_sec": [
+          1.6666666666666667,
+          3.5833333333333335,
+          5.625,
+          9.041666666666666,
+          18.03124999999999,
+          48.125
+        ]
+      },
+      "clips": 30965,
+      "frames": 5034216,
+      "sources": 2192,
+      "mean_frames": 162.57761989342805,
+      "frame_quantiles": [
+        1.0,
+        71.0,
+        126.0,
+        211.0,
+        425.0,
+        2579.0
+      ],
+      "nominal_24fps_duration_quantiles_sec": [
+        0.041666666666666664,
+        2.9583333333333335,
+        5.25,
+        8.791666666666666,
+        17.708333333333332,
+        107.45833333333333
+      ]
+    },
+    "val": {
+      "archive_coverage": "complete central index",
+      "central_entries": 274844,
+      "bad_indices": [],
+      "ignored_entries": {
+        "directories": 1725
+      },
+      "sample_pool": {
+        "clips": 1518,
+        "frames": 268081,
+        "sources": 115,
+        "mean_frames": 176.6014492753623,
+        "frame_quantiles": [
+          40.0,
+          87.0,
+          140.0,
+          221.0,
+          411.0,
+          1761.0
+        ],
+        "nominal_24fps_duration_quantiles_sec": [
+          1.6666666666666667,
+          3.625,
+          5.833333333333333,
+          9.208333333333334,
+          17.125,
+          73.375
+        ]
+      },
+      "clips": 1724,
+      "frames": 273119,
+      "sources": 115,
+      "mean_frames": 158.42169373549885,
+      "frame_quantiles": [
+        3.0,
+        68.0,
+        124.0,
+        207.0,
+        395.8499999999999,
+        1761.0
+      ],
+      "nominal_24fps_duration_quantiles_sec": [
+        0.125,
+        2.8333333333333335,
+        5.166666666666667,
+        8.625,
+        16.493749999999995,
+        73.375
+      ]
+    },
+    "test": {
+      "archive_coverage": "complete central index",
+      "central_entries": 377699,
+      "bad_indices": [],
+      "ignored_entries": {
+        "directories": 2319
+      },
+      "sample_pool": {
+        "clips": 2070,
+        "frames": 369159,
+        "sources": 149,
+        "mean_frames": 178.3376811594203,
+        "frame_quantiles": [
+          40.0,
+          85.0,
+          140.0,
+          222.75,
+          449.0999999999999,
+          1319.0
+        ],
+        "nominal_24fps_duration_quantiles_sec": [
+          1.6666666666666667,
+          3.5416666666666665,
+          5.833333333333333,
+          9.28125,
+          18.712499999999995,
+          54.958333333333336
+        ]
+      },
+      "clips": 2318,
+      "frames": 375380,
+      "sources": 149,
+      "mean_frames": 161.94132873166524,
+      "frame_quantiles": [
+        1.0,
+        68.0,
+        127.0,
+        210.0,
+        422.4500000000003,
+        1319.0
+      ],
+      "nominal_24fps_duration_quantiles_sec": [
+        0.041666666666666664,
+        2.8333333333333335,
+        5.291666666666667,
+        8.75,
+        17.602083333333344,
+        54.958333333333336
+      ]
+    }
+  },
+  "source_overlap": {
+    "train_val": [],
+    "train_test": [],
+    "val_test": []
+  }
+}

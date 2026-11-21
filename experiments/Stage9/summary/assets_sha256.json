@@ -1,0 +1,18 @@
+{
+  "asset": {
+    "basename": "SMPLX_NEUTRAL.npz",
+    "sha256": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992"
+  },
+  "checkpoint": {
+    "basename": "how2sign_pose_only_slt.pth",
+    "sha256": "1bfd5f3312f04e4736f0a52f4ef9535916e6de9676a2a0d00c708748683fb00d"
+  },
+  "detector": {
+    "basename": "end2end.onnx",
+    "sha256": "ceb11c07298f95c50d7c5abeb906d03340c85f23aa79e3e66966e7fb6c307250"
+  },
+  "pose_model": {
+    "basename": "end2end.onnx",
+    "sha256": "68db326c5c6f3273456f803eae0faf5440478369f2c3ee67258d2f36512e8d76"
+  }
+}

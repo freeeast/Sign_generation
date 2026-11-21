@@ -1,0 +1,16 @@
+{
+  "variant": "raw",
+  "frames": 212,
+  "rtmw_4frame_coverage": 1.0,
+  "direct_2d_jerk_p95_px": 23.412948349331067,
+  "direct_2d_matched_jerk_p95_px": 23.412948349331067,
+  "redetected_jerk_p95_px": 26.99611821994864,
+  "silhouette_centroid_jerk_p95_px": 13.367100690655361,
+  "finger_motion_p95_mm": 1.49430341273419,
+  "finger_speed_p95_mm_s": 3.168828097700207,
+  "finger_jerk_p95_mm_frame3": 0.2826102801983212,
+  "aperture_range_mm": 1.4532641454442705,
+  "aperture_speed_p95_mm_frame": 0.09111131019106411,
+  "wrist_jerk_p95_mm_frame3": 34.239817410707474,
+  "fingertip_jerk_p95_mm_frame3": 40.262628346681595
+}

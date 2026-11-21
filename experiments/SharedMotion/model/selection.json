@@ -1,0 +1,22 @@
+{
+  "checkpoint": "gru_context16_h3.pt",
+  "val_6_deg": {
+    "gru_context8_h1.pt": 18.8734073638916,
+    "gru_context8_h3.pt": 18.37731170654297,
+    "gru_context16_h3.pt": 18.307819366455078
+  },
+  "parameters": 165633,
+  "clips": {
+    "train": 600,
+    "val": 75,
+    "test": 100
+  },
+  "groups": {
+    "train": 600,
+    "val": 75,
+    "test": 100
+  },
+  "rotation_6d_roundtrip_max": 1.1920928955078125e-07,
+  "training_sample_stride": 2,
+  "nominal_fps": 12
+}

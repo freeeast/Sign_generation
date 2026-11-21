@@ -1,0 +1,9 @@
+{
+  "clips": 5,
+  "scenarios": 185,
+  "contrasts": 60,
+  "near_tie_count": 4,
+  "near_tie_geometry_correct": 4,
+  "near_tie_nll_correct": 2,
+  "near_tie_cosine_correct": 1
+}

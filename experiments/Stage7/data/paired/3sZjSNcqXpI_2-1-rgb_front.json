@@ -1,0 +1,57 @@
+{
+  "clip_id": "3sZjSNcqXpI_2-1-rgb_front",
+  "video_id": "3sZjSNcqXpI",
+  "video_name": "3sZjSNcqXpI-1-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "If you're willing to play defense you should stay in the back where you can see the field clearly and be able to communicate with your teammates who move forward.",
+  "original_start_s": 26.06,
+  "original_end_s": 34.9,
+  "fit_frames": 212,
+  "rgb_frames": 212,
+  "rgb_fps": 24,
+  "body_holdout_px": 13.101634140490335,
+  "wrists_holdout_px": 21.394748802677782,
+  "fingertips_holdout_px": 15.432688061144207,
+  "fingers_holdout_px": 15.56703342129709,
+  "face_holdout_px": 6.050858837336529,
+  "hand_acceleration_m_per_frame2_median": 0.013280339539051056,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.4333369762302519,
+      0.0,
+      0.27639941945394986
+    ],
+    [
+      0.0,
+      0.9091318285395917,
+      0.11367596119542346
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 17.681108474731445,
+  "primary_outside_image_fraction": 0.07518796992481203,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "a50265a150e48faae0d578247d39b9f7fd1d0b91e914f30663997b76152abbf1",
+  "nsa_members_sha256": "f44baa0662b9e6a471543b7c4883894399525c1f0d820fd2d461cabfacb4283f",
+  "frame_time_max_error_ms": 1.7763568394002505e-12,
+  "mp_total_detected": 424,
+  "mp_odd_associated": 212,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 19.156107617569845,
+    "tips": 14.703486021526984,
+    "handshape": 9.217814862155695
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

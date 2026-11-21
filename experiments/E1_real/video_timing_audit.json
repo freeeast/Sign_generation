@@ -1,0 +1,85 @@
+{
+  "raw": "_2FBDaOPYig-3-rgb_front.mp4",
+  "clip": "_2FBDaOPYig_1-3-rgb_front.mp4",
+  "fps": 24.0,
+  "reference_frames": 126,
+  "evidence": [
+    {
+      "sentence_frame": 0,
+      "original": {
+        "rgb_mean_absolute_difference": 1.1196831464767456,
+        "source_frame": 76
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 34.58490753173828,
+        "source_frame": 119
+      }
+    },
+    {
+      "sentence_frame": 20,
+      "original": {
+        "rgb_mean_absolute_difference": 0.9574381709098816,
+        "source_frame": 96
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 24.87649154663086,
+        "source_frame": 136
+      }
+    },
+    {
+      "sentence_frame": 41,
+      "original": {
+        "rgb_mean_absolute_difference": 1.08544921875,
+        "source_frame": 117
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 31.46690559387207,
+        "source_frame": 152
+      }
+    },
+    {
+      "sentence_frame": 62,
+      "original": {
+        "rgb_mean_absolute_difference": 1.191162109375,
+        "source_frame": 138
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 32.55547332763672,
+        "source_frame": 178
+      }
+    },
+    {
+      "sentence_frame": 83,
+      "original": {
+        "rgb_mean_absolute_difference": 1.0491807460784912,
+        "source_frame": 159
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 31.59589385986328,
+        "source_frame": 202
+      }
+    },
+    {
+      "sentence_frame": 104,
+      "original": {
+        "rgb_mean_absolute_difference": 0.9377712607383728,
+        "source_frame": 180
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 23.46343231201172,
+        "source_frame": 223
+      }
+    },
+    {
+      "sentence_frame": 125,
+      "original": {
+        "rgb_mean_absolute_difference": 1.2411295175552368,
+        "source_frame": 201
+      },
+      "realigned": {
+        "rgb_mean_absolute_difference": 32.61800003051758,
+        "source_frame": 240
+      }
+    }
+  ]
+}

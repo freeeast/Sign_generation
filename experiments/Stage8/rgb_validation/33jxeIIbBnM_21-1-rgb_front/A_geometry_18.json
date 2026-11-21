@@ -1,0 +1,21 @@
+{
+  "source": "33jxeIIbBnM_21-1-rgb_front",
+  "label": "A_geometry_18",
+  "n_frames": 13,
+  "seconds": 1.8164348959999188,
+  "person_present": 13,
+  "direct_response": 0.16044280849970305,
+  "direct_spatial": 0.12853746918531564,
+  "direct_temporal": 0.1883226472597856,
+  "direct_multiscale": 0.16050254152371335,
+  "direct_support": 1.0,
+  "direct_visible_fraction": 1.0,
+  "direct_supported_real_hand_frames": 26,
+  "rgb_response": 0.08803503478948888,
+  "rgb_spatial": 0.0834975724036877,
+  "rgb_temporal": 0.1042103492296659,
+  "rgb_multiscale": 0.06850697902532724,
+  "rgb_support": 1.0,
+  "rgb_visible_fraction": 1.0,
+  "rgb_supported_real_hand_frames": 26
+}

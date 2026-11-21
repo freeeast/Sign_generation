@@ -1,0 +1,22 @@
+{
+  "source": "ETOZLBScxWY_12-5-rgb_front",
+  "level": "B",
+  "variant": "art_guarded_factor",
+  "frames": 14,
+  "elapsed_s": 3.9079134180001347,
+  "visible_person": 14,
+  "rgb_response": 0.09246788887040955,
+  "rgb_spatial": 0.12207420596054622,
+  "rgb_temporal": 0.09358419477939606,
+  "rgb_multiscale": 0.04923295548983983,
+  "rgb_support": 1.0,
+  "rgb_visible_fraction": 1.0,
+  "rgb_supported_real_hand_frames": 28,
+  "direct_response": 0.07922971248626708,
+  "direct_spatial": 0.11046903473990304,
+  "direct_temporal": 0.07772377559116908,
+  "direct_multiscale": 0.037904160363333564,
+  "direct_support": 1.0,
+  "direct_visible_fraction": 1.0,
+  "direct_supported_real_hand_frames": 28
+}

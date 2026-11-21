@@ -1,0 +1,25 @@
+id,clip_id,condition,input_frames,prediction,reference_nll,decoy_nll,forced_choice_win,seconds
+S01,g3ushtMfLiY_5-3-rgb_front,static_proxy,86,It's very important that you have your feet on the floor.,3.7992129,3.5089471,0,5.006
+S02,G2kVb4gINSI_3-10-rgb_front,static_proxy,74,It's very important that you have your feet on the floor.,3.5264132,4.0690775,1,4.84
+S03,_G0RrDVpOZ4_17-5-rgb_front,static_proxy,58,It's very important that you have your feet on the floor.,4.0157318,2.7863889,0,4.153
+S04,G06Irzcwxiw_13-1-rgb_front,static_proxy,58,It's very important that you have your feet on the floor.,2.7863889,4.2932377,1,4.439
+S05,FzQPg4aqNYc_5-1-rgb_front,static_proxy,78,It's very important that you have your feet on the floor.,4.3841457,3.3742471,0,4.677
+S06,8kAWy2YodzQ_19-1-rgb_front,static_proxy,100,It's going to be a little bit lower.,3.3829148,2.741128,0,4.535
+S07,G3EYpadwqck_7-5-rgb_front,static_proxy,58,It's very important that you have your feet on the floor.,2.4623961,5.4799976,1,4.036
+S08,f_zna_wG3zo_0-5-rgb_front,static_proxy,120,It's going to be a little bit lower because it's going to be a little bit lower.,5.6053567,5.5328274,0,7.049
+S09,G3gm_C5UueQ_3-5-rgb_front,static_proxy,96,It's going to be a little bit lower.,5.5044789,1.7396338,0,4.69
+S10,g0iNy-yPisM_21-8-rgb_front,static_proxy,64,It's very important that you have your feet on the floor.,1.6442069,3.7939537,1,4.343
+S11,fzOH00UZg84_2-8-rgb_front,static_proxy,108,It's very important that you have your feet on the floor.,3.7542722,4.0028729,1,4.804
+S12,G2VzB5-JkRA_10-10-rgb_front,static_proxy,80,It's very important that you have your feet on the floor.,3.8804541,2.8642662,0,4.934
+S13,G38DbiHHTW0_5-5-rgb_front,static_proxy,78,It's very important that you have your feet on the floor.,2.8657272,3.5017972,1,4.496
+S14,-g0iPSnQt6w_16-1-rgb_front,static_proxy,76,It's very important that you have your feet on the floor.,3.4959729,3.7149346,1,4.761
+S15,G3EfBFwsOpE_1-5-rgb_front,static_proxy,106,It's very important that you have your feet on the floor.,3.6828663,2.5123129,0,5.138
+S16,g2eTD-1Jcro_17-3-rgb_front,static_proxy,44,It's very important that you have your feet on the floor.,2.3233385,3.4978483,1,3.997
+S17,FzUdcaxw_vs_11-2-rgb_front,static_proxy,72,It's very important that you have your feet on the floor.,3.5187852,6.851284,1,4.384
+S18,fZgWKh3ENoE_1-8-rgb_front,static_proxy,156,You're going to notice that the bottom of the bottom is going to be the top of the bottom.,6.8100138,2.7791822,0,7.071
+S19,-g0sqksgyc4_4-2-rgb_front,static_proxy,92,It's very important that you're going to keep your feet at your feet.,2.5733309,2.96242,1,5.483
+S20,G2kVb4gINSI_9-5-rgb_front,static_proxy,44,It's very important that you have your feet on the floor.,2.8620772,3.4302955,1,3.915
+S21,G3di9jJTqDs_5-10-rgb_front,static_proxy,78,It's very important that you have your feet on the floor.,3.5204868,3.2814274,0,4.467
+S22,_g0fpC8aiME_6-5-rgb_front,static_proxy,90,It's very important that you're going to keep your elbows up.,3.3303537,5.2838278,1,5.109
+S23,G0Q6AlvH96I_10-2-rgb_front,static_proxy,108,It's very important that you have your feet on the floor.,5.4004974,2.7747242,0,4.077
+S24,g2o-GFdGOJE_3-3-rgb_front,static_proxy,78,It's very important that you have your feet on the floor.,2.6070204,3.7541842,1,3.68

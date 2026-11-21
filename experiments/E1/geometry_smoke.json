@@ -1,0 +1,10 @@
+{
+  "data": "synthetic kinematic fixture",
+  "frames": 5,
+  "landmarks": 133,
+  "fk": true,
+  "left_right": true,
+  "y_down": true,
+  "chunked_fk": true,
+  "masked_face": true
+}

@@ -1,0 +1,57 @@
+{
+  "clip_id": "33YRZ5UZTA4_15-2-rgb_front",
+  "video_id": "33YRZ5UZTA4",
+  "video_name": "33YRZ5UZTA4-2-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "We can just put a little dab of black there, same as up here.",
+  "original_start_s": 72.52,
+  "original_end_s": 79.73,
+  "fit_frames": 173,
+  "rgb_frames": 173,
+  "rgb_fps": 24,
+  "body_holdout_px": 13.393930875258867,
+  "wrists_holdout_px": 18.447449171931872,
+  "fingertips_holdout_px": 12.166001248970316,
+  "fingers_holdout_px": 11.673906619442343,
+  "face_holdout_px": 8.58235063077066,
+  "hand_acceleration_m_per_frame2_median": 0.013063011690974236,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.3568424027612619,
+      0.0,
+      0.3128019945058604
+    ],
+    [
+      0.0,
+      0.8368883289532237,
+      0.19650427523855882
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 18.564010620117188,
+  "primary_outside_image_fraction": 0.07518796992481203,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "32be4bc2de7e48105826ec1f1c83dac8e4adb71dfcbb5cbb14fb6690c8ac3603",
+  "nsa_members_sha256": "9d6a1a84a02998afb81f4f7bac89b23055b2178b34508eeaf765ad7dea8bb4aa",
+  "frame_time_max_error_ms": 8.881784197001252e-13,
+  "mp_total_detected": 294,
+  "mp_odd_associated": 142,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 17.463542597771415,
+    "tips": 10.564702438845007,
+    "handshape": 12.474027333610941
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

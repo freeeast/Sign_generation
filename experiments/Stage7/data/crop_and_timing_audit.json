@@ -1,0 +1,118 @@
+[
+  {
+    "clip": "33jxeIIbBnM_21-1-rgb_front",
+    "archive_field_sets": [
+      {
+        "keys": [
+          "cam_trans",
+          "smplx_body_pose",
+          "smplx_expr",
+          "smplx_jaw_pose",
+          "smplx_lhand_pose",
+          "smplx_rhand_pose",
+          "smplx_root_pose",
+          "smplx_shape"
+        ],
+        "frames": 49
+      }
+    ],
+    "original_annotated_duration_s": 2.010000000000005,
+    "realigned_annotation": {
+      "VIDEO_ID": "33jxeIIbBnM",
+      "VIDEO_NAME": "33jxeIIbBnM-1-rgb_front",
+      "SENTENCE_ID": "33jxeIIbBnM_21",
+      "SENTENCE_NAME": "33jxeIIbBnM_21-1-rgb_front",
+      "START_REALIGNED": "136.11",
+      "END_REALIGNED": "142.58",
+      "SENTENCE": "This brings up the visual basic code editor."
+    },
+    "front_duration_s": 2.0416666666666665
+  },
+  {
+    "clip": "3sZjSNcqXpI_2-1-rgb_front",
+    "archive_field_sets": [
+      {
+        "keys": [
+          "cam_trans",
+          "smplx_body_pose",
+          "smplx_expr",
+          "smplx_jaw_pose",
+          "smplx_lhand_pose",
+          "smplx_rhand_pose",
+          "smplx_root_pose",
+          "smplx_shape"
+        ],
+        "frames": 212
+      }
+    ],
+    "original_annotated_duration_s": 8.84,
+    "realigned_annotation": {
+      "VIDEO_ID": "3sZjSNcqXpI",
+      "VIDEO_NAME": "3sZjSNcqXpI-1-rgb_front",
+      "SENTENCE_ID": "3sZjSNcqXpI_2",
+      "SENTENCE_NAME": "3sZjSNcqXpI_2-1-rgb_front",
+      "START_REALIGNED": "32.17",
+      "END_REALIGNED": "45.23",
+      "SENTENCE": "If you're willing to play defense you should stay in the back where you can see the field clearly and be able to communicate with your teammates who move forward."
+    },
+    "front_duration_s": 8.833333333333334
+  },
+  {
+    "clip": "ETOZLBScxWY_12-5-rgb_front",
+    "archive_field_sets": [
+      {
+        "keys": [
+          "cam_trans",
+          "smplx_body_pose",
+          "smplx_expr",
+          "smplx_jaw_pose",
+          "smplx_lhand_pose",
+          "smplx_rhand_pose",
+          "smplx_root_pose",
+          "smplx_shape"
+        ],
+        "frames": 218
+      }
+    ],
+    "original_annotated_duration_s": 6.840000000000003,
+    "realigned_annotation": {
+      "VIDEO_ID": "ETOZLBScxWY",
+      "VIDEO_NAME": "ETOZLBScxWY-5-rgb_front",
+      "SENTENCE_ID": "ETOZLBScxWY_12",
+      "SENTENCE_NAME": "ETOZLBScxWY_12-5-rgb_front",
+      "START_REALIGNED": "98.97",
+      "END_REALIGNED": "110.97",
+      "SENTENCE": "If your rain fly begins to leak, or your tent begins to leak, you need to take and replace the seam sealing on it."
+    },
+    "front_duration_s": 9.083333333333334
+  },
+  {
+    "clip": "DKOzSnHwSFI_7-5-rgb_front",
+    "archive_field_sets": [
+      {
+        "keys": [
+          "cam_trans",
+          "smplx_body_pose",
+          "smplx_expr",
+          "smplx_jaw_pose",
+          "smplx_lhand_pose",
+          "smplx_rhand_pose",
+          "smplx_root_pose",
+          "smplx_shape"
+        ],
+        "frames": 261
+      }
+    ],
+    "original_annotated_duration_s": 8.159999999999997,
+    "realigned_annotation": {
+      "VIDEO_ID": "DKOzSnHwSFI",
+      "VIDEO_NAME": "DKOzSnHwSFI-5-rgb_front",
+      "SENTENCE_ID": "DKOzSnHwSFI_7",
+      "SENTENCE_NAME": "DKOzSnHwSFI_7-5-rgb_front",
+      "START_REALIGNED": "62.87",
+      "END_REALIGNED": "73.17",
+      "SENTENCE": "Some of the muscles that you'll use would be obviously your forearms, your biceps, your lats, your back."
+    },
+    "front_duration_s": 10.875
+  }
+]

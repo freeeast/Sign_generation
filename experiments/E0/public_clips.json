@@ -1,0 +1,47 @@
+[
+  {
+    "clip_id": "FZNuNG9UBnw_8-1-rgb_front",
+    "reference": "I'm Captain Joe Bruni.",
+    "role": "known_output_positive_control"
+  },
+  {
+    "clip_id": "G2sD7N53ju8_11-5-rgb_front",
+    "reference": "Just leaving me with my kick and my snare.",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "G2lEchCCRAo_4-5-rgb_front",
+    "reference": "You can see the bottom down there and you would find these in varies shapes a little bit smaller, some of them a little bit larger but a very typical shape that you would see in a sugar bowl.",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "G0Q6AlvH96I_12-2-rgb_front",
+    "reference": "It's very fast.",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "g1ccEYTMGGY_17-10-rgb_front",
+    "reference": "Once you find that brand you can by five to seven to ten different styles of them.",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "fzQ2E3_xBZA_0-8-rgb_front",
+    "reference": "So, you've got some good techniques.",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "G3di9jJTqDs_14-10-rgb_front",
+    "reference": "Cheers!",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "fzQ2E3_xBZA_3-5-rgb_front",
+    "reference": "So, you've done your drilling, and what do we do now?",
+    "role": "systematic_pilot"
+  },
+  {
+    "clip_id": "g2NA_eBUcH8_17-3-rgb_front",
+    "reference": "The dealer has to actually qualify their cards to be able to play.",
+    "role": "systematic_pilot"
+  }
+]

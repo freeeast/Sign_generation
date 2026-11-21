@@ -1,0 +1,153 @@
+{
+  "seed": 20261118,
+  "rows": 2357,
+  "poses": 2349,
+  "eligible": 336,
+  "source_sha256": "d1799dcbf100eda822eeb1a0e6e754d82b12b2a57756bd47073c4e4b8a02ae4d",
+  "clips": [
+    {
+      "clip_id": "g3ushtMfLiY_5-3-rgb_front",
+      "duration": 3.04,
+      "words": 7,
+      "id": "S01"
+    },
+    {
+      "clip_id": "G2kVb4gINSI_3-10-rgb_front",
+      "duration": 2.0,
+      "words": 7,
+      "id": "S02"
+    },
+    {
+      "clip_id": "_G0RrDVpOZ4_17-5-rgb_front",
+      "duration": 2.16,
+      "words": 6,
+      "id": "S03"
+    },
+    {
+      "clip_id": "G06Irzcwxiw_13-1-rgb_front",
+      "duration": 2.77,
+      "words": 5,
+      "id": "S04"
+    },
+    {
+      "clip_id": "FzQPg4aqNYc_5-1-rgb_front",
+      "duration": 1.42,
+      "words": 4,
+      "id": "S05"
+    },
+    {
+      "clip_id": "8kAWy2YodzQ_19-1-rgb_front",
+      "duration": 3.09,
+      "words": 7,
+      "id": "S06"
+    },
+    {
+      "clip_id": "G3EYpadwqck_7-5-rgb_front",
+      "duration": 1.76,
+      "words": 6,
+      "id": "S07"
+    },
+    {
+      "clip_id": "f_zna_wG3zo_0-5-rgb_front",
+      "duration": 3.06,
+      "words": 7,
+      "id": "S08"
+    },
+    {
+      "clip_id": "G3gm_C5UueQ_3-5-rgb_front",
+      "duration": 3.39,
+      "words": 6,
+      "id": "S09"
+    },
+    {
+      "clip_id": "g0iNy-yPisM_21-8-rgb_front",
+      "duration": 1.1,
+      "words": 6,
+      "id": "S10"
+    },
+    {
+      "clip_id": "fzOH00UZg84_2-8-rgb_front",
+      "duration": 2.85,
+      "words": 7,
+      "id": "S11"
+    },
+    {
+      "clip_id": "G2VzB5-JkRA_10-10-rgb_front",
+      "duration": 1.49,
+      "words": 6,
+      "id": "S12"
+    },
+    {
+      "clip_id": "G38DbiHHTW0_5-5-rgb_front",
+      "duration": 2.2,
+      "words": 7,
+      "id": "S13"
+    },
+    {
+      "clip_id": "-g0iPSnQt6w_16-1-rgb_front",
+      "duration": 1.61,
+      "words": 5,
+      "id": "S14"
+    },
+    {
+      "clip_id": "G3EfBFwsOpE_1-5-rgb_front",
+      "duration": 3.43,
+      "words": 5,
+      "id": "S15"
+    },
+    {
+      "clip_id": "g2eTD-1Jcro_17-3-rgb_front",
+      "duration": 2.97,
+      "words": 5,
+      "id": "S16"
+    },
+    {
+      "clip_id": "FzUdcaxw_vs_11-2-rgb_front",
+      "duration": 3.37,
+      "words": 7,
+      "id": "S17"
+    },
+    {
+      "clip_id": "fZgWKh3ENoE_1-8-rgb_front",
+      "duration": 3.01,
+      "words": 7,
+      "id": "S18"
+    },
+    {
+      "clip_id": "-g0sqksgyc4_4-2-rgb_front",
+      "duration": 2.27,
+      "words": 7,
+      "id": "S19"
+    },
+    {
+      "clip_id": "G2kVb4gINSI_9-5-rgb_front",
+      "duration": 4.57,
+      "words": 3,
+      "id": "S20"
+    },
+    {
+      "clip_id": "G3di9jJTqDs_5-10-rgb_front",
+      "duration": 2.29,
+      "words": 6,
+      "id": "S21"
+    },
+    {
+      "clip_id": "_g0fpC8aiME_6-5-rgb_front",
+      "duration": 2.0,
+      "words": 6,
+      "id": "S22"
+    },
+    {
+      "clip_id": "G0Q6AlvH96I_10-2-rgb_front",
+      "duration": 1.99,
+      "words": 6,
+      "id": "S23"
+    },
+    {
+      "clip_id": "g2o-GFdGOJE_3-3-rgb_front",
+      "duration": 3.31,
+      "words": 6,
+      "id": "S24"
+    }
+  ]
+}

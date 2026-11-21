@@ -1,0 +1,136 @@
+{
+  "asset_sha256": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992",
+  "hand_mean": "model",
+  "rows": [
+    {
+      "clip": "_2FBDaOPYig_1-3-rgb_front",
+      "body_holdout_px": 11.384179290946816,
+      "wrists_holdout_px": 14.976535475848397,
+      "fingertips_holdout_px": 12.565238432297331,
+      "fingers_holdout_px": 11.534995444278776,
+      "face_holdout_px": 7.107162219413083,
+      "hand_acceleration_m_per_frame2_median": 0.02536029741168022,
+      "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+      "camera": [
+        [
+          0.41929464212994066,
+          0.0,
+          0.3092234517054339
+        ],
+        [
+          0.0,
+          1.0045970549072207,
+          0.06747920824856704
+        ]
+      ],
+      "shoulder_left_on_image_right_fraction": 1.0,
+      "observed_left_on_image_right_fraction": 1.0,
+      "positive_crop_depth_min": 20.46454620361328,
+      "primary_outside_image_fraction": 0.07518796992481203
+    },
+    {
+      "clip": "0zvsqf23tmw_16-2-rgb_front",
+      "body_holdout_px": 15.42591038216206,
+      "wrists_holdout_px": 16.81759013640242,
+      "fingertips_holdout_px": 12.794614346803325,
+      "fingers_holdout_px": 11.827886112925935,
+      "face_holdout_px": 11.058644074909282,
+      "hand_acceleration_m_per_frame2_median": 0.017293144017457962,
+      "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+      "camera": [
+        [
+          0.35050665159409833,
+          0.0,
+          0.3420594327855675
+        ],
+        [
+          0.0,
+          0.8069660935805563,
+          0.2281969938070865
+        ]
+      ],
+      "shoulder_left_on_image_right_fraction": 1.0,
+      "observed_left_on_image_right_fraction": 1.0,
+      "positive_crop_depth_min": 20.303483963012695,
+      "primary_outside_image_fraction": 0.07518796992481203
+    },
+    {
+      "clip": "3TrMyzNWGpY_4-2-rgb_front",
+      "body_holdout_px": 17.6740404538228,
+      "wrists_holdout_px": 24.252234201607436,
+      "fingertips_holdout_px": 15.561757252040149,
+      "fingers_holdout_px": 14.945167468227556,
+      "face_holdout_px": 9.131164344135271,
+      "hand_acceleration_m_per_frame2_median": 0.03241977468132973,
+      "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+      "camera": [
+        [
+          0.3599920451283963,
+          0.0,
+          0.3038807937369503
+        ],
+        [
+          0.0,
+          0.8752337502599711,
+          0.17123878393179157
+        ]
+      ],
+      "shoulder_left_on_image_right_fraction": 1.0,
+      "observed_left_on_image_right_fraction": 1.0,
+      "positive_crop_depth_min": 18.734697341918945,
+      "primary_outside_image_fraction": 0.08472073039742213
+    },
+    {
+      "clip": "bBHYQCDp_9A_4-3-rgb_front",
+      "body_holdout_px": 20.447000478326622,
+      "wrists_holdout_px": 21.139871356577473,
+      "fingertips_holdout_px": 21.718819916845142,
+      "fingers_holdout_px": 19.876678350396,
+      "face_holdout_px": 18.796346032290128,
+      "hand_acceleration_m_per_frame2_median": 0.033044859766960144,
+      "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+      "camera": [
+        [
+          0.4040698686653679,
+          0.0,
+          0.31786716031863804
+        ],
+        [
+          0.0,
+          1.024240456118384,
+          0.05958582072992915
+        ]
+      ],
+      "shoulder_left_on_image_right_fraction": 1.0,
+      "observed_left_on_image_right_fraction": 1.0,
+      "positive_crop_depth_min": 19.58448028564453,
+      "primary_outside_image_fraction": 0.07518796992481203
+    },
+    {
+      "clip": "f5EGPzGSCJs_13-8-rgb_front",
+      "body_holdout_px": 18.694905708599915,
+      "wrists_holdout_px": 24.992996266524482,
+      "fingertips_holdout_px": 18.49421079311065,
+      "fingers_holdout_px": 19.063295744767252,
+      "face_holdout_px": 10.789283119576632,
+      "hand_acceleration_m_per_frame2_median": 0.029443418607115746,
+      "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+      "camera": [
+        [
+          0.42788865916859126,
+          0.0,
+          0.3281824203245159
+        ],
+        [
+          0.0,
+          0.867395510877459,
+          0.1556633255194585
+        ]
+      ],
+      "shoulder_left_on_image_right_fraction": 1.0,
+      "observed_left_on_image_right_fraction": 1.0,
+      "positive_crop_depth_min": 17.28468894958496,
+      "primary_outside_image_fraction": 0.11046232602783555
+    }
+  ]
+}

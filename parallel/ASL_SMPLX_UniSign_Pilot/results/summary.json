@@ -1,0 +1,39 @@
+{
+  "conditions": [
+    {
+      "condition": "real",
+      "n": 24,
+      "bleu4": 17.7359,
+      "chrf": 40.5963,
+      "exact": 1,
+      "distinct": 24,
+      "wins": 22,
+      "mean_nll": 2.074659,
+      "mean_margin": 2.115949
+    },
+    {
+      "condition": "generated_proxy",
+      "n": 24,
+      "bleu4": 0.4249,
+      "chrf": 13.0605,
+      "exact": 0,
+      "distinct": 20,
+      "wins": 15,
+      "mean_nll": 3.909312,
+      "mean_margin": 0.054881
+    },
+    {
+      "condition": "static_proxy",
+      "n": 24,
+      "bleu4": 0.339,
+      "chrf": 15.9129,
+      "exact": 0,
+      "distinct": 6,
+      "wins": 13,
+      "mean_nll": 3.655685,
+      "mean_margin": 0.033099
+    }
+  ],
+  "generated_minus_static_margin": 0.021781633333333383,
+  "positive_paired_change": 14
+}

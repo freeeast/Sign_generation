@@ -1,0 +1,159 @@
+{
+  "sample_quality": {
+    "train": {
+      "beta_max_span": [
+        0.1571170762181282,
+        0.2705462738871574
+      ],
+      "camera_z_span": [
+        2.604067802429199,
+        11.007636260986306
+      ],
+      "cam_step_jerk_p95": [
+        0.9084607660770416,
+        1.8136746525764456
+      ],
+      "root_step_p99_deg": [
+        4.738724801787292,
+        10.142344296583477
+      ],
+      "legs_step_p99_deg": [
+        3.9031543083604885,
+        9.64478113532489
+      ],
+      "body_step_p99_deg": [
+        27.02723805572732,
+        46.925592012583344
+      ],
+      "left_step_p99_deg": [
+        43.78475904422449,
+        67.3710319153488
+      ],
+      "right_step_p99_deg": [
+        56.57599973654229,
+        73.951384393579
+      ],
+      "local_rotation_gt150_fraction": [
+        0.0,
+        0.0
+      ],
+      "clips": 600,
+      "source_count": 600,
+      "frames": 108480,
+      "no_rotation_step_over90": 136,
+      "rotation_step_gt90_count": 3350
+    },
+    "val": {
+      "beta_max_span": [
+        0.1705397069454193,
+        0.27543581426143643
+      ],
+      "camera_z_span": [
+        2.438404083251953,
+        8.962640380859373
+      ],
+      "cam_step_jerk_p95": [
+        1.0108083486557007,
+        2.6965633869171106
+      ],
+      "root_step_p99_deg": [
+        5.153699122661637,
+        12.709391399107096
+      ],
+      "legs_step_p99_deg": [
+        5.425917237549647,
+        10.558511568128303
+      ],
+      "body_step_p99_deg": [
+        29.935330312105968,
+        55.50954797699169
+      ],
+      "left_step_p99_deg": [
+        44.92298479810565,
+        62.46434595165238
+      ],
+      "right_step_p99_deg": [
+        56.49068652532136,
+        74.31196177785398
+      ],
+      "local_rotation_gt150_fraction": [
+        0.0,
+        0.0
+      ],
+      "clips": 75,
+      "source_count": 75,
+      "frames": 14031,
+      "no_rotation_step_over90": 16,
+      "rotation_step_gt90_count": 512
+    },
+    "test": {
+      "beta_max_span": [
+        0.14766324311494827,
+        0.2691043376922607
+      ],
+      "camera_z_span": [
+        2.4216442108154297,
+        9.449410915374754
+      ],
+      "cam_step_jerk_p95": [
+        0.9250984787940979,
+        1.5734686374664304
+      ],
+      "root_step_p99_deg": [
+        4.488481428459446,
+        8.02929618557745
+      ],
+      "legs_step_p99_deg": [
+        4.0606006656930695,
+        9.050815562072984
+      ],
+      "body_step_p99_deg": [
+        26.029699436493992,
+        46.35121951703548
+      ],
+      "left_step_p99_deg": [
+        44.8710193028036,
+        65.01886915492182
+      ],
+      "right_step_p99_deg": [
+        57.90077078338787,
+        76.44791709023573
+      ],
+      "local_rotation_gt150_fraction": [
+        0.0,
+        0.0
+      ],
+      "clips": 100,
+      "source_count": 100,
+      "frames": 21263,
+      "no_rotation_step_over90": 18,
+      "rotation_step_gt90_count": 683
+    }
+  },
+  "Fk_roundtrip": [
+    {
+      "split": "train",
+      "clip": "1mN7gG892WI_2-8-rgb_front",
+      "landmark_parity_max_m": 1.7881393432617188e-07,
+      "projection_parity_max_normalized": 1.7280399333685637e-07
+    },
+    {
+      "split": "val",
+      "clip": "b-mHbL3d2ec_2-3-rgb_front",
+      "landmark_parity_max_m": 1.1920928955078125e-07,
+      "projection_parity_max_normalized": 1.0913936421275139e-07
+    },
+    {
+      "split": "test",
+      "clip": "G19uBylwQww_2-2-rgb_front",
+      "landmark_parity_max_m": 1.1920928955078125e-07,
+      "projection_parity_max_normalized": 1.5764574828880384e-07
+    }
+  ],
+  "exp_log_max_rad": 1.1920928955078125e-07,
+  "hand_model_order": "left/right: index middle little ring thumb",
+  "limitations": [
+    "SMPL-X raw angle norm proxy, not anatomical limit",
+    "FK sample scaffold uses reference inactive channels for diagnostics only"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "file": "DKOzSnHwSFI_7-5-rgb_front.mp4",
+  "sha256": "de0355b02b27f14c2c3339fe99a809219459cf00f82a9de23c2f767de76e85f8",
+  "frames": 195,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.009061114324272219,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

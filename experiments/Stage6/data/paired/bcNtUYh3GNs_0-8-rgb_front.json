@@ -1,0 +1,57 @@
+{
+  "clip_id": "bcNtUYh3GNs_0-8-rgb_front",
+  "video_id": "bcNtUYh3GNs",
+  "video_name": "bcNtUYh3GNs-8-rgb_front",
+  "split": "val",
+  "evaluation_partition": "new_source",
+  "reference": "I'm Veronyka Bass from Veronyka's Color Salon and Day Spa.",
+  "original_start_s": 0.32,
+  "original_end_s": 2.98,
+  "fit_frames": 64,
+  "rgb_frames": 64,
+  "rgb_fps": 24,
+  "body_holdout_px": 15.101286659850354,
+  "wrists_holdout_px": 24.088099342136083,
+  "fingertips_holdout_px": 16.446098372927185,
+  "fingers_holdout_px": 13.797407312007813,
+  "face_holdout_px": 9.455901143181073,
+  "hand_acceleration_m_per_frame2_median": 0.009725403040647507,
+  "camera_type": "proxy_constant_affine_fit_on_even_upper_anchors",
+  "camera": [
+    [
+      0.5092244547229972,
+      0.0,
+      0.21576232117513336
+    ],
+    [
+      0.0,
+      1.0384835829481682,
+      0.08405877484773012
+    ]
+  ],
+  "shoulder_left_on_image_right_fraction": 1.0,
+  "observed_left_on_image_right_fraction": 1.0,
+  "positive_crop_depth_min": 21.236385345458984,
+  "primary_outside_image_fraction": 0.06731672932330827,
+  "dimensions_px": [
+    1280,
+    720
+  ],
+  "rgb_sha256": "4d70a733c55b7876f620fbd8066e47a47e8d7ec2c1b55304e4d3a3620a419e16",
+  "nsa_members_sha256": "016d412c5ac4652a331dd4e1a732c516c6a2ee174364a11c7d6d8b5b1a369686",
+  "frame_time_max_error_ms": 4.440892098500626e-13,
+  "mp_total_detected": 101,
+  "mp_odd_associated": 53,
+  "mp_odd_error_px": {
+    "anchors": null,
+    "wrists": 14.203942947295134,
+    "tips": 12.189059323366138,
+    "handshape": 9.55934890370281
+  },
+  "rtmw_pose_coverage": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

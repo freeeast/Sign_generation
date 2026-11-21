@@ -1,0 +1,9 @@
+clip,slack_multiplier,n_proposals,n_kinematically_valid,n_feasible,n_expert_margin,abstained,expert_delta,heldout_delta,oracle_heldout_delta,selected_coefficients
+33jxeIIbBnM_21-1-rgb_front,0.0,24,24,1,0,True,0.0,0.0,0.0,
+33jxeIIbBnM_21-1-rgb_front,1.0,24,24,6,1,False,-0.0018632072076640444,-0.19959892232855125,-0.19959892232855125,"[-3.0, -6.0, -9.0, -9.0, 9.0, -3.0]"
+3sZjSNcqXpI_2-1-rgb_front,0.0,24,24,1,0,True,0.0,0.0,0.0,
+3sZjSNcqXpI_2-1-rgb_front,1.0,24,24,5,0,True,0.0,0.0,0.0,
+DKOzSnHwSFI_7-5-rgb_front,0.0,24,24,1,0,True,0.0,0.0,0.0,
+DKOzSnHwSFI_7-5-rgb_front,1.0,24,24,16,10,False,-0.004420677790444527,0.4157022069667313,0.0,"[6.0, 0.0, 6.0, 0.0, 6.0, 0.0]"
+ETOZLBScxWY_12-5-rgb_front,0.0,24,24,1,0,True,0.0,0.0,0.0,
+ETOZLBScxWY_12-5-rgb_front,1.0,24,24,8,0,True,0.0,0.0,0.0,

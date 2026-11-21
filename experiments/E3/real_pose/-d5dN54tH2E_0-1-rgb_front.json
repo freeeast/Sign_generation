@@ -1,0 +1,17 @@
+{
+  "file": "-d5dN54tH2E_0-1-rgb_front.mp4",
+  "sha256": "3bf2dc4b6ea551d2a42b3eb2e7077acda901b625d6fb9ed9cbf6aff5ff03ec46",
+  "frames": 189,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.627640529896169,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

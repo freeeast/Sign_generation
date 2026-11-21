@@ -1,0 +1,22 @@
+{
+  "source": "DKOzSnHwSFI_7-5-rgb_front",
+  "level": "B",
+  "variant": "art_hier_factor",
+  "frames": 14,
+  "elapsed_s": 2.2409685389993683,
+  "visible_person": 14,
+  "rgb_response": 0.12188639215060641,
+  "rgb_spatial": 0.15872780340058462,
+  "rgb_temporal": 0.1297933097396578,
+  "rgb_multiscale": 0.05765734825815473,
+  "rgb_support": 1.0,
+  "rgb_visible_fraction": 1.0,
+  "rgb_supported_real_hand_frames": 28,
+  "direct_response": 0.11600671399916922,
+  "direct_spatial": 0.1522062144109181,
+  "direct_temporal": 0.12191411639962878,
+  "direct_multiscale": 0.055875569581985474,
+  "direct_support": 1.0,
+  "direct_visible_fraction": 1.0,
+  "direct_supported_real_hand_frames": 28
+}

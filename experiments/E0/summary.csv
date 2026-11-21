@@ -1,0 +1,2 @@
+variant,n,mean_delta_nll,median_delta_nll,n_delta_above_1e_4,min_delta_nll,max_delta_nll,median_cosine
+clean,8,0.0,0.0,0,0.0,0.0,1.0

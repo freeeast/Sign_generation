@@ -1,0 +1,13 @@
+clip,family,comparison,nll_restored_minus_other,reprojection_restored_minus_other,matching_sign,nll_central_difference_per_unit,finite_difference_units
+bBHYQCDp_9A_4-3-rgb_front,finger_articulation,corrupted16,-0.06962728500366211,-1.0208900688894822,True,0.0014382998148600261,deg
+bBHYQCDp_9A_4-3-rgb_front,finger_articulation,alternative_from16,-0.09397077560424805,-0.5241618515673281,True,0.0014382998148600261,deg
+bBHYQCDp_9A_4-3-rgb_front,wrist_orientation,corrupted16,0.019962310791015625,-2.4445478483701244,False,-0.0032067696253458657,deg
+bBHYQCDp_9A_4-3-rgb_front,wrist_orientation,alternative_from16,0.0461277961730957,-0.7356802558714541,False,-0.0032067696253458657,deg
+bBHYQCDp_9A_4-3-rgb_front,wrist_position_via_elbows,corrupted16,0.0011818408966064453,-11.697121455755187,False,-0.010017037391662598,deg
+bBHYQCDp_9A_4-3-rgb_front,wrist_position_via_elbows,alternative_from16,0.022885560989379883,-1.6406481498829244,False,-0.010017037391662598,deg
+bBHYQCDp_9A_4-3-rgb_front,arm_trajectory,corrupted16,-0.03459668159484863,-7.784138437101973,True,-0.008986711502075195,deg
+bBHYQCDp_9A_4-3-rgb_front,arm_trajectory,alternative_from16,0.017833471298217773,-5.96758127152026,False,-0.008986711502075195,deg
+bBHYQCDp_9A_4-3-rgb_front,local_head,corrupted16,0.04621243476867676,-0.015550104691790523,,0.0011472304662068684,deg
+bBHYQCDp_9A_4-3-rgb_front,local_head,alternative_from16,-0.030073881149291992,-0.007722794486486606,,0.0011472304662068684,deg
+bBHYQCDp_9A_4-3-rgb_front,temporal_warp,corrupted7,-0.04247689247131348,-26.452668969313805,True,0.03588294982910156,frames
+bBHYQCDp_9A_4-3-rgb_front,temporal_warp,alternative_reverse_shift,0.12901067733764648,-18.83253560460369,False,0.03588294982910156,frames

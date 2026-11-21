@@ -1,0 +1,14 @@
+{
+  "fit_seed": 20261116,
+  "tangent_seeds": [20261117, 9901, 9902, 9903, 9904, 9905],
+  "families": ["finger_articulation", "wrist_orientation", "arm_trajectory"],
+  "calibration": ["_2FBDaOPYig_1-3-rgb_front", "0zvsqf23tmw_16-2-rgb_front"],
+  "evaluation": ["3TrMyzNWGpY_4-2-rgb_front", "bBHYQCDp_9A_4-3-rgb_front", "f5EGPzGSCJs_13-8-rgb_front"],
+  "geometry_tie_px": 1.0,
+  "detector_min_margin_px": 0.2,
+  "priority_frames": {
+    "bBHYQCDp_9A_4-3-rgb_front": [9, 27, 55],
+    "f5EGPzGSCJs_13-8-rgb_front": [13, 23, 47],
+    "3TrMyzNWGpY_4-2-rgb_front": [28, 55, 109]
+  }
+}

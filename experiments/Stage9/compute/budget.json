@@ -1,0 +1,9 @@
+{
+  "ceiling_seconds": 8.184764853999695,
+  "threads": 2,
+  "accelerator": "cpu",
+  "source": "3sZjSNcqXpI_2-1-rgb_front",
+  "level": "B",
+  "clock": "search excl. final check-point export",
+  "max_proposals": 36
+}

@@ -1,0 +1,16 @@
+{
+  "accepted": 2,
+  "proposals": 36,
+  "expert_start": 0.12861631739545953,
+  "expert_final": 0.12821477661755953,
+  "wall_s": 11.816650619000029,
+  "expert_passes": 39,
+  "train_fk_parity_px": 0.00072479248046875,
+  "rejection": {
+    "dense_shape_window": 5,
+    "dense_finger_window": 15,
+    "finger_window": 4,
+    "visible_tip_spike": 8,
+    "shape_window": 2
+  }
+}

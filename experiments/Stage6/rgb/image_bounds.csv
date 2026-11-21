@@ -1,0 +1,13 @@
+clip,method,hand,over_threshold_and_outside_fraction,frames_qualified_with_in_frame_joint_fraction,median_confidence_inside
+3TrMyzNWGpY_4-2-rgb_front,avatar,left,0.006377551020408163,1.0,0.8962579965591431
+3TrMyzNWGpY_4-2-rgb_front,avatar,right,0.0,1.0,0.8782711029052734
+3TrMyzNWGpY_4-2-rgb_front,real,left,0.06292517006802721,0.9464285714285714,0.8688284158706665
+3TrMyzNWGpY_4-2-rgb_front,real,right,0.0,1.0,0.8507707118988037
+3xni-I6N3EY_3-1-rgb_front,avatar,left,0.05776736924277908,1.0,0.8490478992462158
+3xni-I6N3EY_3-1-rgb_front,avatar,right,0.01873536299765808,1.0,0.840259313583374
+3xni-I6N3EY_3-1-rgb_front,camera_shift,left,0.05620608899297424,1.0,0.8491445183753967
+3xni-I6N3EY_3-1-rgb_front,camera_shift,right,0.0156128024980484,1.0,0.8402531743049622
+3xni-I6N3EY_3-1-rgb_front,clay,left,0.053864168618266976,1.0,0.8504419326782227
+3xni-I6N3EY_3-1-rgb_front,clay,right,0.01014832162373146,1.0,0.8218247890472412
+3xni-I6N3EY_3-1-rgb_front,real,left,0.4566744730679157,0.5081967213114754,0.8222675323486328
+3xni-I6N3EY_3-1-rgb_front,real,right,0.4207650273224044,0.5409836065573771,0.9052562713623047

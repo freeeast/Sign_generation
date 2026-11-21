@@ -1,0 +1,17 @@
+{
+  "file": "33jxeIIbBnM_21-1-rgb_front.mp4",
+  "sha256": "9ac106e7478439a96288a9867252e732e9ccbbc4ffeb8a988b1f1d59b7cb5c8a",
+  "frames": 49,
+  "fps": 24.0,
+  "width": 1280,
+  "height": 720,
+  "missing_detection_frames": 0,
+  "multiple_detection_frames": 0,
+  "score_above_one_fraction": 0.6868190885376707,
+  "visible_fractions": {
+    "body": 1.0,
+    "left": 1.0,
+    "right": 1.0,
+    "face": 1.0
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "clip_id": "33jxeIIbBnM_21-1-rgb_front",
+    "video_id": "33jxeIIbBnM",
+    "video_name": "33jxeIIbBnM-1-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "This brings up the visual basic code editor.",
+    "original_start_s": 105.32,
+    "original_end_s": 107.33,
+    "fit_frames": 49,
+    "rgb_frames": 49,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "3sZjSNcqXpI_2-1-rgb_front",
+    "video_id": "3sZjSNcqXpI",
+    "video_name": "3sZjSNcqXpI-1-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "If you're willing to play defense you should stay in the back where you can see the field clearly and be able to communicate with your teammates who move forward.",
+    "original_start_s": 26.06,
+    "original_end_s": 34.9,
+    "fit_frames": 212,
+    "rgb_frames": 212,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "ETOZLBScxWY_12-5-rgb_front",
+    "video_id": "ETOZLBScxWY",
+    "video_name": "ETOZLBScxWY-5-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "If your rain fly begins to leak, or your tent begins to leak, you need to take and replace the seam sealing on it.",
+    "original_start_s": 75.61,
+    "original_end_s": 82.45,
+    "fit_frames": 218,
+    "rgb_frames": 218,
+    "rgb_fps": 24
+  },
+  {
+    "clip_id": "DKOzSnHwSFI_7-5-rgb_front",
+    "video_id": "DKOzSnHwSFI",
+    "video_name": "DKOzSnHwSFI-5-rgb_front",
+    "split": "val",
+    "evaluation_partition": "new_source",
+    "reference": "Some of the muscles that you'll use would be obviously your forearms, your biceps, your lats, your back.",
+    "original_start_s": 46.14,
+    "original_end_s": 54.3,
+    "fit_frames": 261,
+    "rgb_frames": 261,
+    "rgb_fps": 24
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "clip": "33jxeIIbBnM_21-1-rgb_front",
+    "status": "proxy_side_assessment",
+    "calibration_error_px": 28.921940417110505,
+    "camera_yaw_deg": 85,
+    "camera_scale": 841.2441758647641,
+    "camera_offset_px": [
+      611.5100873206585,
+      979.7223186917751
+    ],
+    "associated_odd_hands": 4
+  },
+  {
+    "clip": "3sZjSNcqXpI_2-1-rgb_front",
+    "status": "proxy_side_assessment",
+    "calibration_error_px": 40.70818181913323,
+    "camera_yaw_deg": 87,
+    "camera_scale": 809.3019420133421,
+    "camera_offset_px": [
+      606.7857345214813,
+      950.5036669600395
+    ],
+    "associated_odd_hands": 163
+  },
+  {
+    "clip": "ETOZLBScxWY_12-5-rgb_front",
+    "status": "length_or_rate_mismatch",
+    "frames_side": 165,
+    "frames_front": 218,
+    "fps_side": 24.0
+  },
+  {
+    "clip": "DKOzSnHwSFI_7-5-rgb_front",
+    "status": "length_or_rate_mismatch",
+    "frames_side": 195,
+    "frames_front": 261,
+    "fps_side": 24.0
+  }
+]
