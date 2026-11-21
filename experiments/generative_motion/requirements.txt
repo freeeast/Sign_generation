@@ -1,0 +1,5 @@
+# Python 3.12.14. Install PyTorch 2.6.0 separately for CPU or your CUDA runtime.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+smplx==0.1.28
