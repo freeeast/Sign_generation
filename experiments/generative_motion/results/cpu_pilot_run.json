@@ -1,0 +1,31 @@
+{
+  "config": {
+    "seed": 455,
+    "frames": 96,
+    "fps": 24,
+    "stride": 48,
+    "width": 64,
+    "depth": 4,
+    "diffusion_steps": 64,
+    "batch_size": 8,
+    "steps": 500,
+    "validate_every": 50,
+    "validation_batches": 8,
+    "learning_rate": 0.0005,
+    "threads": 4
+  },
+  "provenance": {
+    "manifest_sha256": "e2a78804f64aa7959d1c9e221d04614010d202454de4091b144c598782b43c60",
+    "asset_sha256": "376021446ddc86e99acacd795182bbef903e61d33b76b9d8b359c2b0865bd992",
+    "git_commit": "fd65b0808fca37ca7b4b833077a73f695171bc42",
+    "torch": "2.6.0+cpu",
+    "device": "cpu",
+    "train_clips": 421,
+    "validation_clips": 59,
+    "train_sources": 421,
+    "validation_sources": 59,
+    "train_windows": 1789,
+    "validation_windows": 242
+  },
+  "representation": "shared-motion-active-43-rot6d-v1"
+}

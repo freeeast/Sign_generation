@@ -19,3 +19,13 @@ work/
 *.task
 *.pkl
 *.pt
+
+# Generative run artifacts and locally authorized datasets
+*.bin
+*.ckpt
+*.safetensors
+*.pkl.gz
+*.tar
+*.tar.gz
+*.part
+*.lmdb
