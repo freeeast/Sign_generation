@@ -1,0 +1,41 @@
+{
+  "inference_seeds": 32,
+  "seed": 771,
+  "differences": {
+    "left_step_p95_deg": {
+      "mean_delta": -25.481721123689308,
+      "conditional_bootstrap_percentile_95": [
+        -25.927352037069074,
+        -25.025074019097143
+      ]
+    },
+    "right_step_p95_deg": {
+      "mean_delta": -25.67463167047382,
+      "conditional_bootstrap_percentile_95": [
+        -26.27395354755475,
+        -25.082628708485075
+      ]
+    },
+    "left_jerk_p95_deg_s3": {
+      "mean_delta": -1293045.606891381,
+      "conditional_bootstrap_percentile_95": [
+        -1312340.6692289265,
+        -1272563.0830270487
+      ]
+    },
+    "right_jerk_p95_deg_s3": {
+      "mean_delta": -1318378.4215717523,
+      "conditional_bootstrap_percentile_95": [
+        -1347257.3062860298,
+        -1289203.114797946
+      ]
+    },
+    "train_descriptor_nearest_rmse": {
+      "mean_delta": 0.005016306844146054,
+      "conditional_bootstrap_percentile_95": [
+        0.002143460253760424,
+        0.007956921322572558
+      ]
+    }
+  }
+}

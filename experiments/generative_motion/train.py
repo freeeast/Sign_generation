@@ -9,7 +9,8 @@ import time
 
 import torch
 
-from experiments.generative_motion.diffusion import Denoiser, GaussianDDPM
+from experiments.generative_motion.diffusion import Denoiser
+from experiments.generative_motion.flow import build_process
 from experiments.generative_motion.motion import REPRESENTATION, Windows, hand_mean, split_rows
 
 
@@ -78,6 +79,7 @@ def run(args):
             for name in (
                 "experiments/generative_motion/train.py",
                 "experiments/generative_motion/diffusion.py",
+                "experiments/generative_motion/flow.py",
                 "experiments/generative_motion/motion.py",
                 "src/shared_motion.py",
                 "scripts/shared_motion_data.py",
@@ -99,8 +101,7 @@ def run(args):
     index_rng = torch.Generator().manual_seed(cfg["seed"])
     noise_rng = torch.Generator(device=device).manual_seed(cfg["seed"] + 1)
     model = Denoiser(cfg["width"], cfg["depth"]).to(device)
-    diffusion = GaussianDDPM(cfg["diffusion_steps"], device, cfg.get("prediction", "noise"),
-                             cfg.get("velocity_weight", 0.0))
+    diffusion = build_process(cfg, device)
     optimizer = torch.optim.AdamW(model.parameters(), lr=cfg["learning_rate"])
     start, best, history = 0, float("inf"), []
     if args.resume:

@@ -2,6 +2,8 @@
 
 当前研究从真实手语动作拟合学习共享分布，并从随机噪声生成连续 SMPL-X 动作。请从 [研究目标](docs/RESEARCH_OBJECTIVE.md)、[生成训练与采样](experiments/generative_motion/README.md) 和 [Codex 交接](docs/CODEX_HANDOFF.md) 开始。旧逐视频重建、专家闭环和 GRU 条件预测见 [历史实验索引](docs/PROJECT_HISTORY.md)。
 
+本轮自主研究复用了同一 SMPL-X 数据管线，完成 Flow Matching 与抖动消融。见 [研究报告](research/FINAL_RESEARCH_REPORT.md) 和 [实验复现](research/REPRODUCTION_GUIDE.md)。
+
 ## 历史迁移入口
 
 本工程保存从真实手语视频出发的 SMPL-X 动作模仿、冻结 Uni-Sign 专家反馈闭环，以及跨录像共享动作预测的既有研究代码和实验记录。

@@ -1,0 +1,17 @@
+{
+  "seed": 455,
+  "frames": 96,
+  "fps": 24,
+  "stride": 48,
+  "width": 96,
+  "depth": 5,
+  "diffusion_steps": 100,
+  "batch_size": 16,
+  "steps": 2500,
+  "validate_every": 250,
+  "validation_batches": 16,
+  "learning_rate": 0.0003,
+  "threads": 4,
+  "process": "flow",
+  "temporal_rho": 0.85
+}

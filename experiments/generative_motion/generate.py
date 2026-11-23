@@ -6,7 +6,8 @@ from pathlib import Path
 
 import torch
 
-from experiments.generative_motion.diffusion import Denoiser, GaussianDDPM
+from experiments.generative_motion.diffusion import Denoiser
+from experiments.generative_motion.flow import build_process
 from experiments.generative_motion.motion import REPRESENTATION, export_smplx
 
 
@@ -17,6 +18,7 @@ def main():
     parser.add_argument("--seeds", type=int, nargs="+", required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--device", default="cpu")
+    parser.add_argument("--flow-steps", type=int, help="override Euler evaluations for a flow checkpoint")
     args = parser.parse_args()
 
     state = torch.load(args.checkpoint, map_location="cpu", weights_only=True)
@@ -31,8 +33,11 @@ def main():
     model = Denoiser(cfg["width"], cfg["depth"]).to(device)
     model.load_state_dict(state["model"])
     model.eval()
-    diffusion = GaussianDDPM(cfg["diffusion_steps"], device, cfg.get("prediction", "noise"),
-                             cfg.get("velocity_weight", 0.0))
+    if args.flow_steps is not None:
+        if cfg.get("process") != "flow" or args.flow_steps < 1:
+            parser.error("--flow-steps requires a flow checkpoint and a positive step count")
+        cfg = {**cfg, "diffusion_steps": args.flow_steps}
+    diffusion = build_process(cfg, device)
     mean, scale = state["mean"].to(device), state["scale"].to(device)
     args.output.mkdir(parents=True, exist_ok=False)
     for seed in args.seeds:
@@ -44,6 +49,8 @@ def main():
         "trained_frames": cfg["frames"], "exported_frames": frames, "fps": cfg["fps"],
         "seeds": args.seeds, "checkpoint_sha256": digest, "checkpoint_step": state["step"],
         "representation": REPRESENTATION, "conditioning": "none", "device": args.device,
+        "process": cfg.get("process", "ddpm"), "sampling_evaluations": cfg["diffusion_steps"],
+        "temporal_rho": cfg.get("temporal_rho", 0.0),
     }, indent=2) + "\n", encoding="utf-8")
 
 
